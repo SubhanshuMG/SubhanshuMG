@@ -1,5 +1,6 @@
-<h1 align="left">Hi 👋, I'm Subhanshu Mohan Gupta</h1>
-<h3 align="left">A Developer and a Cloud Enthusiast</h3>
+## Hi there, Myself [Subhanshu Mohan Gupta][website] 👋
+
+### I'm a Developer, and a Cloud Enthusiast!!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhanshumg&label=Profile%20views&color=0e75b6&style=flat" alt="subhanshumg" /> </p>
 
@@ -7,20 +8,16 @@
 
 <p align="left"> <a href="https://twitter.com/subhanshumg" target="blank"><img src="https://img.shields.io/twitter/follow/subhanshumg?logo=twitter&style=for-the-badge" alt="subhanshumg" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/SubhanshuMG?tab=repositories)
-
-- 📫 How to reach me - **subhanshugupta0@gmail.com**
-
-- 📄 Know about my experiences [My Portfolio](https://subhanshumg.github.io/)
-
-- ⚡ Fun fact **I love Cats**
+- 🌱 I’m currently learning everything
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love Cats
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/subhanshumg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subhanshumg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/subhanshumg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhanshumg" height="30" width="40" /></a>
 <a href="https://instagram.com/subhhanshu_mg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subhhanshu_mg" height="30" width="40" /></a>
-<a href="https://discord.gg/7777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7777" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
