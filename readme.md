@@ -52,8 +52,7 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
   <br />
-  <!-- <img align="left" alt="SubhanshuMG's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhanshuMG&layout=compact" /> -->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubhanshuMG&layout=compact)](https://github.com/SubhanshuMG/github-readme-stats)
+  <img align="left" alt="SubhanshuMG's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhanshuMG&layout=compact" />
 </details>
 
 <details>
