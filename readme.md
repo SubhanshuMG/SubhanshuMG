@@ -71,16 +71,16 @@
 
 
 <details>
-  <summary><br>:zap: GitHub Stats</summary>
+  <summary>:zap: GitHub Stats</summary>
   <br />
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=subhanshumg&show_icons=true&locale=en" alt="subhanshumg" /></p>
+  <br><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=subhanshumg&show_icons=true&locale=en" alt="subhanshumg" /></p>
 </details>
 
 
 <details>
-  <summary><br>:zap: Streaks and Contributions</summary>
+  <summary>:zap: Streaks and Contributions</summary>
   <br />
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=subhanshumg&" alt="subhanshumg" /></p>
+  <br><p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=subhanshumg&" alt="subhanshumg" /></p>
 </details>
 
 
