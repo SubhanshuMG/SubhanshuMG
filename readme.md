@@ -51,9 +51,15 @@
 </details>
 
 <details>
+  <summary>:zap: Most Used Languages</summary>
+  <br />
+  <img align="left" alt="SubhanshuMG's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhanshuMG&layout=compact" />
+</details>
+
+<details>
   <summary>:zap: GitHub Stats</summary>
   <br />
-  <img align="left" alt="SubhanshuMG's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SubhanshuMG"/>
+  <img align="left" alt="SubhanshuMG's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SubhanshuMG&show_icons=true&hide_border=true" />
   <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
 
 </details>
