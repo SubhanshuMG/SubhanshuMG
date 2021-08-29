@@ -34,7 +34,6 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 <br />
-<br />
 
 ---
 
@@ -52,14 +51,13 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
   <br />
-  <img align="left" alt="SubhanshuMG's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhanshuMG&layout=compact" />
+  <img align="left" alt="SubhanshuMG's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhanshuMG&layout=compact"/>
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
   <br />
-  <img align="left" alt="SubhanshuMG's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SubhanshuMG&show_icons=true&hide_border=true" />
-  <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
+  <img align="left" alt="SubhanshuMG's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SubhanshuMG&show_icons=true&hide_border=true"/>
 </details>
 
 [website]: https://subhanshumg.github.io/
