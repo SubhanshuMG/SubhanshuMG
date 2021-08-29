@@ -41,9 +41,13 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="SubhanshuMG's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SubhanshuMG&show_icons=true&hide_border=true" />
+  <img align="left" alt="SubhanshuMG's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SubhanshuMG"/>
+  <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 </details>
+
+<br />
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
