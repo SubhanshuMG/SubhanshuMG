@@ -39,17 +39,6 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="SubhanshuMG's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SubhanshuMG"/>
-  <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-</details>
-
-<br />
-
-<details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
@@ -59,6 +48,15 @@
 4. 🗣 Commented on [#11](https://github.com/SubhanshuMG/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/SubhanshuMG/free-developer-resources)
 5. 🎉 Merged PR [#10](https://github.com/SubhanshuMG/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/SubhanshuMG/free-developer-resources)
 <!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="SubhanshuMG's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SubhanshuMG"/>
+  <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 </details>
 
