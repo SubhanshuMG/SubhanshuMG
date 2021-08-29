@@ -54,9 +54,9 @@
   <br />
   <img align="left" alt="SubhanshuMG's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhanshuMG&layout=compact" />
 </details>
+<br />
 
 <details>
-  <br />
   <summary>:zap: GitHub Stats</summary>
   <br />
   <img align="left" alt="SubhanshuMG's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SubhanshuMG&show_icons=true&hide_border=true" />
