@@ -65,8 +65,7 @@
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhanshumg&show_icons=true&locale=en&layout=compact" alt="subhanshumg" /></p>
-<br><br><br><br><br><br><br><br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=subhanshumg&show_icons=true&locale=en" alt="subhanshumg" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhanshumg&show_icons=true&locale=en" alt="subhanshumg" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhanshumg&" alt="subhanshumg" /></p>
 
 [website]: https://subhanshumg.github.io/
