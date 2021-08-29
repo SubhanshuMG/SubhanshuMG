@@ -62,14 +62,12 @@
  <br><br><br><br><br><br><br>
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <br />
   <br><img align="left" src="https://github-readme-stats.vercel.app/api?username=subhanshumg&show_icons=true&locale=en" alt="subhanshumg" />
 </details>
 
 <br><br><br><br><br><br><br><br>
 <details>
   <summary>:zap: Streaks and Contributions</summary>
-  <br />
   <br><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=subhanshumg&" alt="subhanshumg" />
   </p>
 </details>
