@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Subhanshu Mohan Gupta</h1>
-<h3 align="center">A Developer and a Cloud Enthusiast</h3>
+<h1 align="left">Hi 👋, I'm Subhanshu Mohan Gupta</h1>
+<h3 align="left">A Developer and a Cloud Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhanshumg&label=Profile%20views&color=0e75b6&style=flat" alt="subhanshumg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhanshumg" alt="subhanshumg" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhanshumg" alt="subhanshumg" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/subhanshumg" target="blank"><img src="https://img.shields.io/twitter/follow/subhanshumg?logo=twitter&style=for-the-badge" alt="subhanshumg" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/SubhanshuMG?tab=repositories](https://github.com/SubhanshuMG?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/SubhanshuMG?tab=repositories)
 
-- 📫 How to reach me **subhanshugupta0@gmail.com**
+- 📫 How to reach me - **subhanshugupta0@gmail.com**
 
-- 📄 Know about my experiences [https://subhanshumg.github.io/](https://subhanshumg.github.io/)
+- 📄 Know about my experiences [My Portfolio](https://subhanshumg.github.io/)
 
 - ⚡ Fun fact **I love Cats**
 
