@@ -1,13 +1,13 @@
-# Hello World 👋, 
-## Myself [Subhanshu Mohan Gupta][website]
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=subhanshumg&label=Profile%20views&color=0e75b6&style=flat" alt="subhanshumg" /> </p> 
+## Hello World 👋 
 
-### I'm a Developer, and a Cloud Enthusiast!!
+### Myself [Subhanshu Mohan Gupta][website]
+#### <i>I'm a developer and a junior (3<sup>rd</sup>y) currently pursuing B.Tech [CSE] having an experience of developing various software solutions with efficient coding techniques and practices. Apart from the core-development, I love to spend my free time playing games and exploring new things, etc. My only desire is to do just what is necessary for making this world a better place to live.</i>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhanshumg&label=Profile%20views&color=0e75b6&style=flat" alt="subhanshumg" /> </p>
+
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhanshumg" alt="subhanshumg" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/subhanshumg" target="blank"><img src="https://img.shields.io/twitter/follow/subhanshumg?logo=twitter&style=for-the-badge" alt="subhanshumg" /></a> </p>
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
@@ -17,10 +17,9 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/subhanshumg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subhanshumg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/subhanshumg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhanshumg" height="30" width="40" /></a>
-<a href="https://instagram.com/subhhanshu_mg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subhhanshu_mg" height="30" width="40" /></a>
+<p align="left"> <a href="https://instagram.com/subhhanshu_mg"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> &nbsp;<a href="https://linkedin.com/in/subhanshumg"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;<a href="https://twitter.com/subhanshumg"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> 
+</p>
+
 </p>
 
 ---
@@ -53,6 +52,7 @@
   <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 
 ---
+  <br>
 
 <!-- <details>
   <summary>:zap: Most Used Languages</summary>
