@@ -1,4 +1,5 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=subhanshumg&label=Profile%20views&color=0e75b6&style=flat" alt="subhanshumg" /> </p> 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=subhanshumg&label=Profile%20views&color=0e75b6&style=flat" alt="subhanshumg" /></p> 
+
 ## Hello World 👋 
 
 ### Myself [Subhanshu Mohan Gupta][website]
