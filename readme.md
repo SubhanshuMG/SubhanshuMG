@@ -78,7 +78,7 @@
 <details>
   <summary>:zap: Streaks and Contributions</summary>
   <br />
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=subhanshumg&" alt="subhanshumg" /></p>/p>
+  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=subhanshumg&" alt="subhanshumg" /></p>
 </details>
 
 
