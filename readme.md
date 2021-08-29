@@ -1,5 +1,3 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=subhanshumg&label=Profile%20views&color=0e75b6&style=flat" alt="subhanshumg" /></p> 
-
 ## Hello World 👋 
 
 ### Myself [Subhanshu Mohan Gupta][website]
@@ -18,7 +16,7 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://instagram.com/subhhanshu_mg"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> &nbsp;<a href="https://linkedin.com/in/subhanshumg"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;<a href="https://twitter.com/subhanshumg"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> 
+<p align="left"> <a href="https://instagram.com/subhanshu_mg"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> &nbsp;<a href="https://www.linkedin.com/in/subhanshu-mohan-g-039559123/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;<a href="https://twitter.com/SubhanshuMG"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> 
 </p>
 
 </p>
@@ -71,6 +69,7 @@
 </details> -->
   
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhanshumg&show_icons=true&locale=en" alt="subhanshumg" /></p>
-
+  <br>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhanshumg&label=Profile%20views&color=0e75b6&style=flat" alt="subhanshumg" /></p> 
 
 [website]: https://subhanshumg.github.io/
