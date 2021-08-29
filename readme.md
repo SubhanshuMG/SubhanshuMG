@@ -47,7 +47,6 @@
 4. 🗣 Commented on [#11](https://github.com/SubhanshuMG/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/SubhanshuMG/free-developer-resources)
 5. 🎉 Merged PR [#10](https://github.com/SubhanshuMG/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/SubhanshuMG/free-developer-resources)
 <!--END_SECTION:activity-->
-
 </details>
 
 <details>
@@ -57,11 +56,11 @@
 </details>
 
 <details>
+  <br />
   <summary>:zap: GitHub Stats</summary>
   <br />
   <img align="left" alt="SubhanshuMG's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SubhanshuMG&show_icons=true&hide_border=true" />
   <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
-
 </details>
 
 [website]: https://subhanshumg.github.io/
