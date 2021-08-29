@@ -60,7 +60,7 @@
   
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <br><img align="left" src="https://github-readme-stats.vercel.app/api?username=subhanshumg&show_icons=true&locale=en" alt="subhanshumg" />
+  <br><img align="right" src="https://github-readme-stats.vercel.app/api?username=subhanshumg&show_icons=true&locale=en" alt="subhanshumg" />
 </details>
 
 <details>
