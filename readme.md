@@ -1,7 +1,7 @@
 ## Hello World 👋 
 
 ### <i>Myself</i> [Subhanshu Mohan Gupta][website]
-#### <i>I'm a developer and a junior (3<sup>rd</sup>y) currently pursuing B.Tech [CSE] having an experience of developing various software solutions with efficient coding techniques and practices. Apart from the core-development, I love to spend my free time playing games and exploring new things, etc. My only desire is to do just what is necessary for making this world a better place to live.</i>
+#### <i>I'm a developer and a junior </i>(3<sup>rd</sup>y) <i>currently pursuing B.Tech </i>[CSE] <i>having an experience of developing various software solutions with efficient coding techniques and practices. Apart from the core-development, I love to spend my free time playing games and exploring new things, etc. My only desire is to do just what is necessary for making this world a better place to live.</i>
 
 
 
