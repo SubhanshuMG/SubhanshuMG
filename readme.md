@@ -86,9 +86,7 @@
 <img  src="https://raw.githubusercontent.com/SubhanshuMG/SubhanshuMG/main/resources/img/github-contribution-grid-snake.svg" alt="example" />
 </p>
 
----
-
-  <a href="https://github.com/SubhanshuMG/"><img src="https://img.shields.io/github/last-commit/SubhanshuMG/SubhanshuMG?style=flat-square?color=red&label=Last%20Updated%20"/>     </a>
+  <br><a href="https://github.com/SubhanshuMG/"><img src="https://img.shields.io/github/last-commit/SubhanshuMG/SubhanshuMG?style=flat-square?color=red&label=Last%20Updated%20"/>     </a>
 
 
 
