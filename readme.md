@@ -71,14 +71,26 @@
 </details> -->
   
 <!--  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhanshumg&show_icons=true&locale=en" alt="subhanshumg" /> -->
-    
-<div align="left">
-<h2 align="left" style="margin: 5px 10px;">Github stats:</h2> 
+
   
-[![](https://github-readme-stats.vercel.app/api?username=SubhanshuMG&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/SubhanshuMG) 
-<!-- [![](https://github-readme-streak-stats.herokuapp.com/?user=SubhanshuMG&theme=material-palenight)](https://github.com/SubhanshuMG) -->
+<details>
+  <summary><b>Github stats <i><font color="blue">(expand to view)</i></font></b></summary>  
+<div align="left">
+<br><a href="https://github.com/SubhanshuMG/github-readme-stats"><img alt="SubhanshuMG Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhanshuMG&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+</details>  
+  
+<!-- [![](https://github-readme-stats.vercel.app/api?username=SubhanshuMG&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/SubhanshuMG) 
+[![](https://github-readme-streak-stats.herokuapp.com/?user=SubhanshuMG&theme=material-palenight)](https://github.com/SubhanshuMG) -->
 </div>
-    
+
+<details>  
+  <summary><b>Recent GitHub Activity <i><font color="blue">(expand to view)</i></font></b></summary>
+  <br/>
+   <a href="https://github.com/Candida18"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
+
 ---
 
 <p align="left">
