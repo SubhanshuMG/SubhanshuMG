@@ -77,13 +77,13 @@
 <h2 align="left" style="margin: 5px 10px;">Github stats:</h2> 
   
 [![](https://github-readme-stats.vercel.app/api?username=SubhanshuMG&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/SubhanshuMG) 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=SubhanshuMG&theme=material-palenight)](https://github.com/SubhanshuMG)
+<!-- [![](https://github-readme-streak-stats.herokuapp.com/?user=SubhanshuMG&theme=material-palenight)](https://github.com/SubhanshuMG) -->
 </div>
     
 ---
 
 <p align="left">
-<img  src="https://raw.githubusercontent.com/SubhanshuMG/SubhanshuMG/main/resources/img/github-contribution-grid-snake.svg" alt="example" />
+<img src="https://github.com/SubhanshuMG/SubhanshuMG/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
   <br><a href="https://github.com/SubhanshuMG/"><img src="https://img.shields.io/github/last-commit/SubhanshuMG/SubhanshuMG?style=flat-square?color=red&label=Last%20Updated%20"/>     </a>
