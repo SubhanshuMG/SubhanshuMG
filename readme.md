@@ -13,6 +13,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love Cats
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhanshumg&label=Profile%20views&color=0e75b6&style=flat" alt="subhanshumg" /> </p>  
+
 ---
 
 <h3 align="left">Connect with me:</h3>
@@ -75,17 +77,17 @@
 <h2 align="left" style="margin: 5px 10px;">Github stats:</h2> 
   
 [![](https://github-readme-stats.vercel.app/api?username=SubhanshuMG&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/SubhanshuMG) 
-&nbsp [![](https://github-readme-streak-stats.herokuapp.com/?user=SubhanshuMG&theme=material-palenight)](https://github.com/Elanza-48)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=SubhanshuMG&theme=material-palenight)](https://github.com/SubhanshuMG)
 </div>
     
 ---
 
-  <p align="center">
-  <img  src="https://raw.githubusercontent.com/SubhanshuMG/SubhanshuMG/main/resources/img/github-contribution-grid-snake.svg" alt="example" />
-  </p>
+<p align="left">
+<img  src="https://raw.githubusercontent.com/SubhanshuMG/SubhanshuMG/main/resources/img/github-contribution-grid-snake.svg" alt="example" />
+</p>
 
-  <br>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhanshumg&label=Profile%20views&color=0e75b6&style=flat" alt="subhanshumg" /> </p>
+---
+
   <a href="https://github.com/SubhanshuMG/"><img src="https://img.shields.io/github/last-commit/SubhanshuMG/SubhanshuMG?style=flat-square?color=red&label=Last%20Updated%20"/>     </a>
 
 
