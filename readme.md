@@ -85,7 +85,7 @@
 <img src="https://github.com/SubhanshuMG/SubhanshuMG/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
-<br><p align ="left"><a href="https://github.com/SubhanshuMG/"><img src="https://img.shields.io/github/last-commit/SubhanshuMG/SubhanshuMG?style=flat-square?color=red&label=Last%20Updated%20"/>     
+<p align ="left"><a href="https://github.com/SubhanshuMG/"><img src="https://img.shields.io/github/last-commit/SubhanshuMG/SubhanshuMG?style=flat-square?color=red&label=Last%20Updated%20"/>     
 </a></p>
 
 
