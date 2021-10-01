@@ -1,4 +1,4 @@
-## Hello World 👋 
+### <h1 align="left">Hello World <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="40" width="40" />
 
 ### <i>Myself</i> [Subhanshu Mohan Gupta][website]
 #### <i>I'm a developer and a junior </i>(3<sup>rd</sup>y) <i>currently pursuing B.Tech </i>[CSE] <i>having an experience of developing various software solutions with efficient coding techniques and practices. Apart from the core-development, I love to spend my free time playing games and exploring new things, etc. My only desire is to do just what is necessary for making this world a better place to live.</i>
@@ -69,8 +69,25 @@
   <br><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=subhanshumg&" alt="subhanshumg" />
 </details> -->
   
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhanshumg&show_icons=true&locale=en" alt="subhanshumg" /></p>
+<!--  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhanshumg&show_icons=true&locale=en" alt="subhanshumg" /> -->
+    
+<div align="left">
+<h2 align="left" style="margin: 5px 10px;">Github stats:</h2> 
+  
+[![](https://github-readme-stats.vercel.app/api?username=SubhanshuMG&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/SubhanshuMG) 
+[![](https://github-readme-streak-stats.herokuapp.com/?user=SubhanshuMG&theme=material-palenight)](https://github.com/Elanza-48)
+</div>
+    
+---
+
+  <p align="center">
+  <img  src="https://raw.githubusercontent.com/SubhanshuMG/SubhanshuMG/main/resources/img/github-contribution-grid-snake.svg" alt="example" />
+  </p>
+
   <br>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhanshumg&label=Profile%20views&color=0e75b6&style=flat" alt="subhanshumg" /></p> 
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhanshumg&label=Profile%20views&color=0e75b6&style=flat" alt="subhanshumg" /> </p>
+  <a href="https://github.com/SubhanshuMG/"><img src="https://img.shields.io/github/last-commit/SubhanshuMG/SubhanshuMG?style=flat-square?color=red&label=Last%20Updated%20"/>     </a>
+
+
 
 [website]: https://subhanshumg.github.io/
