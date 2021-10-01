@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=subhanshumg&label=Profile%20views&color=0e75b6&style=flat" alt="subhanshumg" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhanshumg&label=Profile%20views&color=0e75b6&style=flat" alt="subhanshumg" /> </p>
 <h1 align="left">Hello World <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="40" width="40" />
 
 ### <i>Myself</i> [Subhanshu Mohan Gupta][website]
@@ -77,16 +77,21 @@
   <summary><b>Github stats <i><font color="blue">(expand to view)</i></font></b></summary>  
 <div align="left">
 <br><a href="https://github.com/SubhanshuMG/github-readme-stats"><img alt="SubhanshuMG Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhanshuMG&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhanshuMG&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SubhanshuMG" height="192px"/>  
 </details>  
-  
 <!-- [![](https://github-readme-stats.vercel.app/api?username=SubhanshuMG&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/SubhanshuMG) 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=SubhanshuMG&theme=material-palenight)](https://github.com/SubhanshuMG) -->
 </div>
 
+<details>
+<summary><b>Streaks Stats <i><font color="blue">(expand to view)</i></font></b></summary>    
+<br><p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhanshuMG&theme=algolia" alt="SubhanshuMG"  /></p>  
+</details>
+  
 <details>  
   <summary><b>Recent GitHub Activity <i><font color="blue">(expand to view)</i></font></b></summary>
   <br/>
-   <a href="https://github.com/Candida18"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/SubhanshuMG"><img alt="SubhanshuMG Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhanshuMG&custom_title=SubhanshuMG's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
