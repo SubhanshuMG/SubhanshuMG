@@ -13,10 +13,10 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhanshumg" alt="subhanshumg" /></a> </p> -->
 
 
-- 🌱 I'm currently working for a Marketing & Advertisement based startup as a DevOps Engineer
+- 🌱 I'm currently working for a marketing & advertisement based startup as a DevOps Engineer
 - 👯 Looking to collaborate with other developers & content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I'm a Cat lover...   
+- 🥅 2021 Goals: Contribute more to open source projects
+- ⚡ Fun fact: I'm a cat lover...   
 
 ---
 
