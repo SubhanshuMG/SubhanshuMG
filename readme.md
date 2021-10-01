@@ -2,6 +2,10 @@
 <h1 align="left">Hello World <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="40" width="40" />
 
 ### <i>Myself</i> [Subhanshu Mohan Gupta][website]
+  
+  <p align="left"><a href="https://github.com/SubhanshuMG/readme-typing-svg">
+  <a href="https://subhanshumg.github.io/"><img src="https://readme-typing-svg.herokuapp.com?lines=DevOps/Cloud+Engineer%20|%20I%20love%20you;&left=true&width=700&height=30"></p></a> 
+    
 #### <i>I'm a developer and a junior </i>(3<sup>rd</sup>y) <i>currently pursuing B.Tech </i>[CSE] <i>having an experience of developing various software solutions with efficient coding techniques and practices. Apart from the core-development, I love to spend my free time playing games and exploring new things, etc. My only desire is to do just what is necessary for making this world a better place to live.</i>
 
 
@@ -77,7 +81,7 @@
   <summary><b>Github Stats <i><font color="blue">(expand to view)</i></font></b></summary>  
 <div align="left">
 <br><a href="https://github.com/SubhanshuMG/github-readme-stats"><img alt="SubhanshuMG Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhanshuMG&show_icons=true&count_private=true&theme=algolia" height="192px"/></a></div>
-<br><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhanshuMG&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SubhanshuMG" height="192px"/>  
+&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhanshuMG&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SubhanshuMG" height="192px" width="50%"/> --> 
 </details>  
 <!-- [![](https://github-readme-stats.vercel.app/api?username=SubhanshuMG&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/SubhanshuMG) 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=SubhanshuMG&theme=material-palenight)](https://github.com/SubhanshuMG) -->
@@ -100,6 +104,8 @@
 <p align="left">
 <img src="https://github.com/SubhanshuMG/SubhanshuMG/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
+
+##
 
 <p align ="left"><img src="https://img.shields.io/github/last-commit/SubhanshuMG/SubhanshuMG?style=flat-square?color=blue&label=Last%20Updated%20" /></p>
 
