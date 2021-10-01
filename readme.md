@@ -1,4 +1,5 @@
-### <h1 align="left">Hello World <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="40" width="40" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhanshumg&label=Profile%20views&color=0e75b6&style=flat" alt="subhanshumg" /> </p>
+<h1 align="left">Hello World <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="40" width="40" />
 
 ### <i>Myself</i> [Subhanshu Mohan Gupta][website]
 #### <i>I'm a developer and a junior </i>(3<sup>rd</sup>y) <i>currently pursuing B.Tech </i>[CSE] <i>having an experience of developing various software solutions with efficient coding techniques and practices. Apart from the core-development, I love to spend my free time playing games and exploring new things, etc. My only desire is to do just what is necessary for making this world a better place to live.</i>
@@ -11,9 +12,7 @@
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love Cats
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhanshumg&label=Profile%20views&color=0e75b6&style=flat" alt="subhanshumg" /> </p>  
+- ⚡ Fun fact: I love Cats  
 
 ---
 
