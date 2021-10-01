@@ -88,7 +88,7 @@
 [![](https://github-readme-streak-stats.herokuapp.com/?user=SubhanshuMG&theme=material-palenight)](https://github.com/SubhanshuMG) -->
 
 <details>
-<summary><b>Streaks Stats <i><font color="blue">(expand to view)</i></font></b></summary>    
+<summary><b>Streak Stats <i><font color="blue">(expand to view)</i></font></b></summary>    
 <br><p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhanshuMG&theme=algolia" alt="SubhanshuMG"  /></p>  
 </details>
   
