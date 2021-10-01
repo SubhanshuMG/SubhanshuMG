@@ -4,7 +4,7 @@
 ### <i>Myself</i> [Subhanshu Mohan Gupta][website]
   
   <p align="left"><a href="https://github.com/SubhanshuMG/readme-typing-svg">
-  <a href="https://subhanshumg.github.io/"><img src="https://readme-typing-svg.herokuapp.com?lines=DevOps/Cloud+Engineer%20|%20Learning%20new%20things%20everyday;&left=true&width=900&height=30"></p></a> 
+  <a href="https://subhanshumg.github.io/"><img src="https://readme-typing-svg.herokuapp.com?lines=DevOps/Cloud+Engineer%20|%20Learning%20new%20things%20everyday...;&left=true&width=950&height=30"></p></a> 
     
 #### <i>I'm a developer and a junior </i>(3<sup>rd</sup>y) <i>currently pursuing B.Tech </i>[CSE] <i>having an experience of developing various software solutions with efficient coding techniques and practices. Apart from the core-development, I love to spend my free time playing games and exploring new things, etc. My only desire is to do just what is necessary for making this world a better place to live.</i>
 
