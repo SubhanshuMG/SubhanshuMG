@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhanshumg&label=Profile%20views&color=0e75b6&style=flat" alt="subhanshumg" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=subhanshumg&label=Profile%20views&color=0e75b6&style=flat" alt="subhanshumg" /> </p>
 <h1 align="left">Hello World <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="40" width="40" />
 
 ### <i>Myself</i> [Subhanshu Mohan Gupta][website]
@@ -85,8 +85,8 @@
 <img src="https://github.com/SubhanshuMG/SubhanshuMG/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
-  <br><a href="https://github.com/SubhanshuMG/"><img src="https://img.shields.io/github/last-commit/SubhanshuMG/SubhanshuMG?style=flat-square?color=red&label=Last%20Updated%20"/>     </a>
-
+<br><p align ="right"><a href="https://github.com/SubhanshuMG/"><img src="https://img.shields.io/github/last-commit/SubhanshuMG/SubhanshuMG?style=flat-square?color=red&label=Last%20Updated%20"/>     
+</a></p>
 
 
 [website]: https://subhanshumg.github.io/
