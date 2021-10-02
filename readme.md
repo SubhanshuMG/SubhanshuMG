@@ -93,7 +93,7 @@
 </details>
   
 <details>  
-  <summary><b>Recent GitHub Activity - Graph <i><font color="blue">(expand to view)</i></font></b></summary>
+  <summary><b>Recent GitHub Activity - <i>Graph <font color="blue">(expand to view)</i></font></b></summary>
   <br/>
    <a href="https://github.com/SubhanshuMG"><img alt="SubhanshuMG Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhanshuMG&custom_title=SubhanshuMG's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
