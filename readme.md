@@ -100,12 +100,14 @@
 
 </details>
 
----
-
+<details>  
+  <summary><b>GitHub Contributions - <i>Snake Grid view <font color="blue">(expand to view)</i></font></b></summary>
+  <br/>  
 <p align="left">
 <img src="https://github.com/SubhanshuMG/SubhanshuMG/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
-
+</details>
+  
 ##
 
 <p align ="left"><img src="https://img.shields.io/github/last-commit/SubhanshuMG/SubhanshuMG?style=flat-square?color=blue&label=Last%20Updated%20" /></p>
