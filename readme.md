@@ -98,7 +98,7 @@
 </details>
   
 <details>  
-  <summary><b>Recent GitHub Activity - <i>Graph <font color="blue">(click to expand)</i></font></b></summary>
+  <summary><b>Recent GitHub Activity - <i><font color="blue">(click to expand)</i></font></b></summary>
   <br/>
    <a href="https://github.com/SubhanshuMG"><img alt="SubhanshuMG Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhanshuMG&custom_title=SubhanshuMG's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
@@ -106,7 +106,7 @@
 </details>
 
 <details>  
-  <summary><b>GitHub Contributions - <i>Snake Grid <font color="blue">(click to expand)</i></font></b></summary>
+  <summary><b>GitHub Contributions - <i><font color="blue">(click to expand)</i></font></b></summary>
   <br/>  
 <p align="left">
 <img src="https://github.com/SubhanshuMG/SubhanshuMG/raw/output/github-contribution-grid-snake.svg" alt="snake">
