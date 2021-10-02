@@ -76,7 +76,8 @@
   
 <!--  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhanshumg&show_icons=true&locale=en" alt="subhanshumg" /> -->
 
-  
+<h3 align="left">Stats, Activities & Contributions:</h3>
+
 <details>
   <summary><b>Github Stats & Most Used Languages <i><font color="blue">(expand to view)</i></font></b></summary>  
 <div align="left">
