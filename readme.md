@@ -16,7 +16,7 @@
 - 🌱 I'm currently working for a marketing & advertisement based startup as a DevOps Engineer
 - 👯 Looking to collaborate with other developers & content creators
 - 🥅 2021 Goals: Contribute more to open source projects
-- ⚡ Fun fact: I'm a cat lover...   
+- ⚡ Fun fact: I love cats 🐾 
 
 ---
 
