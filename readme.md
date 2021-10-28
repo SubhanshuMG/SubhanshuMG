@@ -94,7 +94,7 @@
 
 <details>
 <summary><b>Streak Stats <i><font color="blue">(click to expand)</i></font></b></summary>    
-<br><p align="left"><img src="https://github-streaks.herokuapp.com?user=SubhanshuMG&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="SubhanshuMG"  /></p>  
+<br><p align="left"><img src="https://git-streak-stats.herokuapp.com?user=SubhanshuMG&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="SubhanshuMG"  /></p>  
 </details>
   
 <details>  
