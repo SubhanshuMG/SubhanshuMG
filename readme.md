@@ -4,9 +4,10 @@
   
   <p align="left"><a href="https://github.com/SubhanshuMG/readme-typing-svg">
   <a href="https://subhanshumg.github.io/"><img src="https://readme-typing-svg.herokuapp.com?lines=DevOps/Cloud%20|%20Front-end+Engineer%20|%20Learning%20new%20things%20everyday...;&left=true&width=1000&height=30"></p></a> 
-    
-#### <i>I'm a </i>3<sup>rd</sup>year junior <i>currently pursuing B.Tech </i>(CSE) <i>having an experience of developing various software solutions with efficient coding techniques and practices. Apart from the core-development, I love to spend my free time playing games and exploring new things, etc. My only desire is to do just what is necessary for making this world a better place to live.</i>
 
+<!--    
+#### <i>I'm a </i>3<sup>rd</sup>year junior <i>currently pursuing B.Tech </i>(CSE) <i>having an experience of developing various software solutions with efficient coding techniques and practices. Apart from the core-development, I love to spend my free time playing games and exploring new things, etc. My only desire is to do just what is necessary for making this world a better place to live.</i>
+-->
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhanshumg" alt="subhanshumg" /></a> </p> -->
