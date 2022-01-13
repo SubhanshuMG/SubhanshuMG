@@ -15,7 +15,7 @@
 
 - 🌱 I'm currently working for the EduTech based startup as a DevOps Engineer
 - 👯 Looking to collaborate with other developers & content creators
-- 🥅 2021 Goals: Contribute more to open source projects
+- 🥅 2022 Goals: Contribute more to open source projects
 - ⚡ Fun fact: I love cats 🐾 
 
 ---
