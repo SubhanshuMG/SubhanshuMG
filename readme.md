@@ -13,7 +13,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhanshumg" alt="subhanshumg" /></a> </p> -->
 
 
-- 🌱 I'm currently working for the EduTech based startup as a DevOps Engineer
+- 🌱 Currently working for an EduTech based startup as a DevOps Engineer
 - 👯 Looking to collaborate with other developers & content creators
 - 🥅 2022 Goals - Contribute more to open source projects
 - ⚡ Fun fact - I love cats 🐾 
