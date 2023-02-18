@@ -13,7 +13,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhanshumg" alt="subhanshumg" /></a> </p> -->
 
 
-- 🌱 Currently working for an IT company as a Cloud Solutions Executive Intern
+- 🌱 Currently working for an IT company as a DevOps Engineer
 - 👯 Looking to collaborate with other developers & content creators
 - 🥅 2022 Goals - Contribute more to open source projects
 - ⚡ Fun fact - I love cats 🐾 
