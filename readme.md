@@ -92,7 +92,7 @@
 <!-- [![](https://github-readme-stats.vercel.app/api?username=SubhanshuMG&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/SubhanshuMG) 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=SubhanshuMG&theme=material-palenight)](https://github.com/SubhanshuMG) -->
 
-<details>
+<!-- <details>
 <summary><b>Streak Stats <i><font color="blue">(click to expand)</i></font></b></summary>    
 <br><p align="left"><img src="https://git-streak-stats.herokuapp.com?user=SubhanshuMG&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="SubhanshuMG" /></p>  
 </details>
@@ -103,7 +103,7 @@
    <a href="https://github.com/SubhanshuMG"><img alt="SubhanshuMG Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhanshuMG&custom_title=SubhanshuMG's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
-</details>
+</details> -->
 
 <details>  
   <summary><b>GitHub Contributions - <i><font color="blue">(click to expand)</i></font></b></summary>
