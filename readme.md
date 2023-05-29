@@ -16,7 +16,7 @@
 - 🌱 Currently working for an IT company as a DevOps Engineer
 - 👯 Looking to collaborate with other developers & content creators
 - 🥅 2022 Goals - Contribute more to open source projects
-- ⚡ Fun fact - I love cats 🐾 
+- ⚡ Fun fact - My cat name is Linux 🐾 
 
 ---
 
