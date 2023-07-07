@@ -1,4 +1,4 @@
-<h1 align="left">Hey! Nice to see you. 
+<h1 align="left">Hey! Nice to see you.. 
 
 ### <i>Myself</i> [Subhanshu Mohan Gupta][website]
   
@@ -181,8 +181,9 @@ Python                   3 repos             █░░░░░░░░░░�
 
 ---
 
-Now Playing
-<br><div align="left">
+<h3 align="left">Now Playing"</h3>
+
+<div align="left">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/n1e3dla8yewa5oyadf3uqmr3h)
 </div>
   
