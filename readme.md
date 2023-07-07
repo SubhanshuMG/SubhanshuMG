@@ -125,7 +125,7 @@
 
 ---
 
-<h3 align="left">Now Playing:</h3>
+<h3 align="left">Currently listening to:</h3>
 
 <div align="left">
   
