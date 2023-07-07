@@ -178,6 +178,13 @@ Python                   3 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
   </p>
 </details>
+
+---
+
+Now Playing
+<br><div align="left">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/n1e3dla8yewa5oyadf3uqmr3h)
+</div>
   
 ##
 
