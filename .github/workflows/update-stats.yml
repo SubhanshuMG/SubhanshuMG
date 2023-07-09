@@ -30,6 +30,3 @@ jobs:
           SHOW_DAYS_OF_WEEK: "True"
           SHOW_COMMIT: "True"
           LOCALE: "en"
-          SHOW_LANGUAGE_PER_REPO: "True"
-          SHOW_DAYS_OF_WEEK: "True"
-          SHOW_PROJECTS: "False"
