@@ -82,8 +82,8 @@
 <details>
   <summary><b>Github Stats & Most Used Langauges <i></b><font color="blue">(click to expand)</i></font></b></summary>  
 <p align="center">
-<br><img alt="SubhanshuMG Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhanshuMG&show_icons=true&hide_border=true&count_private=true&theme=algolia" height=190px />
-&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhanshuMG&show_icons=true&hide_border=true&locale=en&layout=compact&theme=algolia" alt="SubhanshuMG" height=190px />
+<br><img alt="SubhanshuMG Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhanshuMG&show_icons=true&include_all_commits=true&hide_border=false&count_private=true&theme=github_dark" height=190px />
+&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhanshuMG&show_icons=true&hide_border=false&locale=en&layout=compact&theme=github_dark" alt="SubhanshuMG" height=190px />
   
 <!-- <br><a href="https://github.com/SubhanshuMG/github-readme-stats"><img alt="SubhanshuMG Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhanshuMG&show_icons=true&count_private=true&theme=algolia" height="191px" width="54%"/></a>
 &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhanshuMG&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SubhanshuMG" height="191px" width="45%"/> -->
@@ -95,7 +95,7 @@
 
  <details>
 <summary><b>Github Contributions <i><font color="blue">(click to expand)</i></font></b></summary>    
-<br><p align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SubhanshuMG&theme=algolia" alt="SubhanshuMG's github stats" /></a><br></p>  
+<br><p align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SubhanshuMG&theme=github_dark" alt="SubhanshuMG's github stats" /></a><br></p>  
 </details>
   
 <!-- <details>  
