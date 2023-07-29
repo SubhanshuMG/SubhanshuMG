@@ -93,26 +93,26 @@
 <!-- [![](https://github-readme-stats.vercel.app/api?username=SubhanshuMG&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/SubhanshuMG) 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=SubhanshuMG&theme=material-palenight)](https://github.com/SubhanshuMG) -->
 
-<!-- <details>
-<summary><b>Streak Stats <i><font color="blue">(click to expand)</i></font></b></summary>    
-<br><p align="left"><img src="https://git-streak-stats.herokuapp.com?user=SubhanshuMG&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="SubhanshuMG" /></p>  
+ <details>
+<summary><b>Github Contributions <i><font color="blue">(click to expand)</i></font></b></summary>    
+<br><p align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SubhanshuMG&theme=tokyonight" alt="SubhanshuMG's github stats" /></a><br></p>  
 </details>
   
-<details>  
+<!-- <details>  
   <summary><b>Recent GitHub Activity - <i><font color="blue">(click to expand)</i></font></b></summary>
   <br/>
    <a href="https://github.com/SubhanshuMG"><img alt="SubhanshuMG Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhanshuMG&custom_title=SubhanshuMG's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+  <br/> 
 
-</details> 
+</details>  -->
 
 <details>  
-  <summary><b>GitHub Contributions - <i><font color="blue">(click to expand)</i></font></b></summary>
+  <summary><b>GitHub Input Snake View - <i><font color="blue">(click to expand)</i></font></b></summary>
   <br/>  
 <p align="left">
 <img src="https://github.com/SubhanshuMG/SubhanshuMG/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
-</details> -->
+</details> 
 
 <details>  
   <summary><b>Github Data & Productivity <i></b><font color="blue">(click to expand)</i></font></summary>
