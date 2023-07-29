@@ -106,13 +106,13 @@
 
 </details>  -->
 
-<details>  
+<!-- <details>  
   <summary><b>GitHub Input Snake View - <i><font color="blue">(click to expand)</i></font></b></summary>
   <br/>  
 <p align="left">
 <img src="https://github.com/SubhanshuMG/SubhanshuMG/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
-</details> 
+</details> -->
 
 <details>  
   <summary><b>Github Data & Productivity <i></b><font color="blue">(click to expand)</i></font></summary>
