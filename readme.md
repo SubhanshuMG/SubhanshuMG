@@ -80,10 +80,14 @@
 <h3 align="left">Stats, Activities and Contributions:</h3>
 
 <details>
-  <summary><b>Github Stats & Most Used Langauges <i></b><font color="blue">(click to expand)</i></font></b></summary>  
+  <summary><b>Github + Wakatime Stats & Most Used Langauges <i></b><font color="blue">(click to expand)</i></font></b></summary>  
 <p align="center">
-<br><img alt="SubhanshuMG Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhanshuMG&show_icons=true&include_all_commits=true&hide_border=false&count_private=true&theme=github_dark" height=190px />
+<br><img alt="SubhanshuMG Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhanshuMG&show_icons=true&include_all_commits=true&hide_border=false&count_private=true&theme=github_dark&rank_icon=github" height=190px />
 &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhanshuMG&show_icons=true&hide_border=false&locale=en&layout=compact&theme=github_dark" alt="SubhanshuMG" height=190px />
+<br><p align="center" 
+  
+![Subhanshu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SubhanshuMG\&layout=compact&theme=github_dark)
+</p>
   
 <!-- <br><a href="https://github.com/SubhanshuMG/github-readme-stats"><img alt="SubhanshuMG Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhanshuMG&show_icons=true&count_private=true&theme=algolia" height="191px" width="54%"/></a>
 &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhanshuMG&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SubhanshuMG" height="191px" width="45%"/> -->
