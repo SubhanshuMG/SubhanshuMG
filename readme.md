@@ -119,7 +119,7 @@
 </details> -->
 
 <details>  
-  <summary><b>Github Data & Productivity <i></b><font color="blue">(click to expand)</i></font></summary>
+  <summary><b>Wakatime Data & Productivity <i></b><font color="blue">(click to expand)</i></font></summary>
   <br/>  
   <p align="left">
 <!--START_SECTION:waka-->
