@@ -80,25 +80,22 @@
 <h3 align="left">Stats, Activities and Contributions:</h3>
 
 <details>
-  <summary><b>Github + Wakatime Stats & Most Used Langauges <i></b><font color="blue">(click to expand)</i></font></b></summary>  
+  <summary><b>Github Stats & Most Used Langauges <i></b><font color="blue">(click to expand)</i></font></b></summary>  
 <p align="center">
 <br><img alt="SubhanshuMG Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhanshuMG&show_icons=true&include_all_commits=true&hide_border=false&count_private=true&theme=github_dark&rank_icon=github" height=190px />
-&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhanshuMG&show_icons=true&hide_border=false&locale=en&layout=compact&theme=github_dark" alt="SubhanshuMG" height=190px />
-<br><p align="center" 
-  
-![Subhanshu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SubhanshuMG\&layout=compact&theme=github_dark)
-</p>
-  
+&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhanshuMG&show_icons=true&hide_border=false&locale=en&layout=compact&theme=github_dark" alt="SubhanshuMG" height=190px />  
+</p>  
+</details> 
+
 <!-- <br><a href="https://github.com/SubhanshuMG/github-readme-stats"><img alt="SubhanshuMG Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhanshuMG&show_icons=true&count_private=true&theme=algolia" height="191px" width="54%"/></a>
 &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhanshuMG&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SubhanshuMG" height="191px" width="45%"/> -->
   
-</p>  
-</details>  
+
 <!-- [![](https://github-readme-stats.vercel.app/api?username=SubhanshuMG&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/SubhanshuMG) 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=SubhanshuMG&theme=material-palenight)](https://github.com/SubhanshuMG) -->
 
  <details>
-<summary><b>Github Contributions <i><font color="blue">(click to expand)</i></font></b></summary>    
+<summary><b>Github Contributions <i><font color="blue"></b>(click to expand)</i></font></summary>    
 <br><p align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SubhanshuMG&theme=github_dark" alt="SubhanshuMG's github stats" /></a><br></p>  
 </details>
   
@@ -117,6 +114,13 @@
 <img src="https://github.com/SubhanshuMG/SubhanshuMG/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 </details> -->
+
+<details>
+  <summary><b>Wakatime Stats (since JUL 7 2023) <i></b><font color="blue">(click to expand)</i></font></summary>  
+<p>
+<br><img alt="Wakatime Stats (Since 7 July 2023)" src="https://github-readme-stats.vercel.app/api/wakatime?username=SubhanshuMG\&layout=compact&theme=github_dark" /> 
+</p>
+</details>  
 
 <details>  
   <summary><b>Wakatime Data & Productivity <i></b><font color="blue">(click to expand)</i></font></summary>
