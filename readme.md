@@ -91,7 +91,7 @@
 <details>
   <summary><b>Wakatime Stats (since JUL 7 2023) <i></b><font color="blue">(click to expand)</i></font></summary>  
 <p align="center">
-<br><img alt="Wakatime Stats (Since 7 July 2023)" src="https://github-readme-stats.vercel.app/api/wakatime?username=SubhanshuMG\&layout=compact&theme=github_dark" width=52% /> 
+<br><img alt="Wakatime Stats (Since 7 July 2023)" src="https://github-readme-stats.vercel.app/api/wakatime?username=SubhanshuMG\&layout=compact&theme=github_dark" width=60% /> 
 </p>
 </details>  
 
