@@ -3,7 +3,7 @@
 ### <i>Myself</i> [Subhanshu Mohan Gupta][website]
   
   <p align="left"><a href="https://github.com/SubhanshuMG/readme-typing-svg">
-  <a href="https://subhanshumg.github.io/"><img src="https://readme-typing-svg.herokuapp.com?lines=DevSecOps%20|%20Infra%20|%20SRE%20|%20Learning%20new%20things%20everyday...;&left=true&width=1000&height=30"></p></a> 
+  <a href="https://subhanshumg.com/"><img src="https://readme-typing-svg.herokuapp.com?lines=DevSecOps%20|%20Infra%20|%20SRE%20|%20Learning%20new%20things%20everyday...;&left=true&width=1000&height=30"></p></a> 
 
 <i>I'm a </i>4<sup>th</sup>year senior <i>currently pursuing </i>B.Tech (CSE) with specialization in Cloud Computing <i>having experience in developing various software solutions with efficient coding techniques and practices. Apart from core development, I love to spend my free time playing games, exploring new things, etc. My only desire is to do what is necessary to make this world a better place to live.</i>
 
