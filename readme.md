@@ -214,4 +214,4 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 <!-- <p align="left"><img src="http://img.shields.io/badge/Code%20Time-6%2C158%20hrs%206%20mins-black" /></p>
 <p align="left"><img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-121.4%20million%20lines%20of%20code-black" /></p> -->
 
-[website]: https://subhanshumg.github.io/
+[website]: https://subhanshumg.com/
