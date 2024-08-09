@@ -11,7 +11,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhanshumg" alt="subhanshumg" /></a> </p> -->
 
 
-- 🌱 Working for an IT company as a DevOps Engineer
+- 🌱 Working for an IT company as a Lead DevOps Engineer
 - 👯 Looking to collaborate with other developers & content creators
 - 🥅 2023 Goals - Contribute more to open-source projects
 - 🐾 Fun fact - My cat's name is Linux 
