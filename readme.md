@@ -5,7 +5,9 @@
   <p align="left"><a href="https://github.com/SubhanshuMG/readme-typing-svg">
   <a href="https://subhanshumg.com/"><img src="https://readme-typing-svg.herokuapp.com?lines=DevSecOps%20|%20Infra%20|%20SRE%20|%20Learning%20new%20things%20everyday...;&left=true&width=1000&height=30"></p></a> 
 
-<i>I'm a </i>4<sup>th</sup>year senior <i>currently pursuing </i>B.Tech (CSE) with specialization in Cloud Computing <i>having experience in developing various software solutions with efficient coding techniques and practices. Apart from core development, I love to spend my free time playing games, exploring new things, etc. My only desire is to do what is necessary to make this world a better place to live.</i>
+<i>A dedicated Technology Professional specialising in Dev/Sec/Cloud/MLOps and SRE having extensive experience in developing innovative software solutions using efficient coding techniques and best practices. My career is driven by a passion for technology and a commitment to excellence in every project I undertake.
+<br>Beyond my core development work, I thrive on exploring new technologies and immersing myself in the latest industry trends. I also enjoy unwinding with video games and engaging in activities that fuel my curiosity and creativity.
+<br>My ultimate goal is to contribute meaningfully and make this world a better place to live.</i>
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhanshumg" alt="subhanshumg" /></a> </p> -->
