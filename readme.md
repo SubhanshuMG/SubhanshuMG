@@ -5,7 +5,7 @@
   <p align="left"><a href="https://github.com/SubhanshuMG/readme-typing-svg">
   <a href="https://subhanshumg.com/"><img src="https://readme-typing-svg.herokuapp.com?lines=DevSecOps%20|%20Infra%20|%20SRE%20|%20Learning%20new%20things%20everyday...;&left=true&width=1000&height=30"></p></a> 
 
-<i>A dedicated Technology Professional specialising in Dev/Sec/Cloud/MLOps and SRE having extensive experience in developing innovative software solutions using efficient coding techniques and best practices. My career is driven by a passion for technology and a commitment to excellence in every project I undertake.
+<i>A dedicated Technology Professional specialising in Dev/Sec/Cloud/MLOps Engineer having extensive experience in developing innovative software solutions using efficient coding techniques and best practices. My career is driven by a passion for technology and a commitment to excellence in every project I undertake.
 <br>Beyond my core development work, I thrive on exploring new technologies and immersing myself in the latest industry trends. I also enjoy unwinding with video games and engaging in activities that fuel my curiosity and creativity.
 <br>My ultimate goal is to contribute meaningfully and make this world a better place to live.</i>
 
