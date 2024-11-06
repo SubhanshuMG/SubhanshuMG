@@ -169,14 +169,13 @@ Sunday                   407 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     18 mins             ███████████████████████░░   93.34 % 
-Other                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -192,7 +191,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/11/2024 16:28:39 UTC
+ Last Updated on 06/11/2024 00:45:22 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
