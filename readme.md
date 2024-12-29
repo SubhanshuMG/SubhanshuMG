@@ -134,8 +134,6 @@
 
 > 📦 69.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,151 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 56 Public Repositories 
@@ -169,13 +167,13 @@ Sunday                   441 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -191,7 +189,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/12/2024 16:22:41 UTC
+ Last Updated on 29/12/2024 00:48:17 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
