@@ -169,15 +169,13 @@ Sunday                   441 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     6 mins              ████████████████████████░   95.88 % 
-YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -193,7 +191,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/01/2025 16:26:39 UTC
+ Last Updated on 10/01/2025 00:46:21 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
