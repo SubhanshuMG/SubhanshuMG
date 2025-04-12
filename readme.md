@@ -203,6 +203,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 ---
 
+<!--
 <h3 align="left">Currently listening to:</h3>
 
 <div align="left">
@@ -210,7 +211,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
   [![Spotify](https://novatorem-lac-ten.vercel.app/api/spotify)](https://open.spotify.com/user/n1e3dla8yewa5oyadf3uqmr3h)
 </div>
   
-##
+## -->
 <br>
 <p align="left"><img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-121.4%20million%20lines%20of%20code-black" /></p>
 
