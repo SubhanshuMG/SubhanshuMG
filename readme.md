@@ -16,7 +16,7 @@
 - 🌱 Working for an IT company as a Lead DevOps Engineer
 - 👯 Looking to collaborate with other developers & content creators
 - 🥅 2024 Goals - Contribute more to open-source projects
-- 🐾 Fun fact - My cat's name is Linux 
+- 🐾 Fun fact - My cats' names are Linux and Xenix 
 
 ---
 
