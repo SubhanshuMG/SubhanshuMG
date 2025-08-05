@@ -210,7 +210,7 @@ Java                     2 repos             █░░░░░░░░░░�
 <br> -->
 <p align="left"><img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-121.4%20million%20lines%20of%20code-black" /></p>
 
-[![CodeTime Badge](https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25433%26project%3D%26in=0)](https://codetime.dev)
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=plastic&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D25433)](https://codetime.dev)
 <p align="left"><img src="https://img.shields.io/github/last-commit/SubhanshuMG/SubhanshuMG?style=flat-square?color=blue&label=Last%20Updated%20" /></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=subhanshumg&label=Profile%20views&color=0e75b6&style=flat" alt="subhanshumg" /></p>
 <!-- <p align="left"><img src="http://img.shields.io/badge/Code%20Time-6%2C158%20hrs%206%20mins-black" /></p> -->
