@@ -169,13 +169,14 @@ Sunday                   328 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   15 mins             ████████████████████████░   94.32 % 
+YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  16 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      16 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -191,7 +192,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2025 16:31:09 UTC
+ Last Updated on 22/08/2025 00:45:47 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
