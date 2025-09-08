@@ -134,8 +134,6 @@
 
 > 📦 124.1 kB Used in GitHub's Storage 
  > 
-> 🏆 180 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 66 Public Repositories 
@@ -169,15 +167,13 @@ Sunday                   330 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 15 mins             ███████████████████░░░░░░   77.41 % 
-Python                   3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-YAML                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -193,7 +189,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2025 16:19:48 UTC
+ Last Updated on 08/09/2025 00:47:47 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
