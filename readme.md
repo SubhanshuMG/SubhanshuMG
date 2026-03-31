@@ -3,7 +3,7 @@
 ### <i>Myself</i> [Subhanshu Mohan Gupta][website]
   
   <p align="left"><a href="https://github.com/SubhanshuMG/readme-typing-svg">
-  <a href="https://subhanshumg.com/"><img src="https://readme-typing-svg.herokuapp.com?lines=DevSecOps%20|%20Infra%20|%20SRE%20|%20Learning%20new%20things%20everyday...;&left=true&width=1000&height=30"></p></a> 
+  <a href="https://subhanshumg.com/"><img src="https://readme-typing-svg.demolab.com?lines=DevSecOps%20|%20Infra%20|%20SRE%20|%20Learning%20new%20things%20everyday...;&left=true&width=1000&height=30"></p></a> 
 
 <i>A dedicated technology professional specialising in DevSec/Cloud/MLOps having extensive experience in developing innovative software solutions using efficient coding techniques and best practices. My career is driven by a passion for technology and a commitment to excellence in every project I undertake.
 <br>Beyond my core development work, I thrive on exploring new technologies and immersing myself in the latest industry trends. I also enjoy unwinding with video games and engaging in activities that fuel my curiosity and creativity.
@@ -15,8 +15,35 @@
 
 - 🌱 Working for an IT company as a Lead DevOps Engineer
 - 👯 Looking to collaborate with other developers & content creators
-- 🥅 2024 Goals - Contribute more to open-source projects
-- 🐾 Fun fact - My cats' names are Linux and Xenix 
+- 🥅 2026 Goals - Contribute more to open-source projects
+- 🐾 Fun fact - My cats' names are Linux and Xenix
+
+---
+
+<h3 align="left">Featured Projects</h3>
+
+<table>
+  <tr>
+    <td width="33%">
+      <h4><a href="https://proofid.in">ProofID</a></h4>
+      <p><i>Proof-of-work identity platform for independent workers</i></p>
+      <p>Verified digital profiles with AI-powered credential validation, QR verification, and PDF portfolio generation.</p>
+      <sub>Next.js 14 · Supabase · OpenAI · TypeScript · Razorpay</sub>
+    </td>
+    <td width="33%">
+      <h4><a href="https://forgekit.build">ForgeKit</a></h4>
+      <p><i>Engineering acceleration platform for AI, DevOps & full-stack teams</i></p>
+      <p>Scaffold fully wired, production-ready projects with one command. Templates for web apps, APIs, ML pipelines & serverless.</p>
+      <sub>TypeScript · Node.js · CLI · GitHub Actions · Monorepo</sub>
+    </td>
+    <td width="33%">
+      <h4><a href="https://livebetter.one">LiveBetter</a></h4>
+      <p><i>Preventive health intelligence that learns how your body works</i></p>
+      <p>Connects sleep, mood, stress, energy & wearable data into a personalized daily wellness score. Web + Mobile.</p>
+      <sub>Next.js 14 · FastAPI · React Native · Supabase · OpenAI</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -217,7 +244,7 @@ HCL                      4 repos             ██░░░░░░░░░�
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=plastic&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D25433)](https://codetime.dev)
 <p align="left"><img src="https://img.shields.io/github/last-commit/SubhanshuMG/SubhanshuMG?style=flat-square?color=blue&label=Last%20Updated%20" /></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=subhanshumg&label=Profile%20views&color=0e75b6&style=flat" alt="subhanshumg" /></p>
-<!-- <p align="left"><img src="http://img.shields.io/badge/Code%20Time-6%2C158%20hrs%206%20mins-black" /></p> -->
+<p align="left"><img src="http://img.shields.io/badge/Code%20Time-6%2C158%20hrs%206%20mins-black" /></p>
 
 
 [website]: https://subhanshumg.com/
