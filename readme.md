@@ -165,6 +165,8 @@
   <br/>  
   <p align="left">
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-163%20hrs%2058%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 904.8 kB Used in GitHub's Storage 
@@ -213,6 +215,12 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -226,7 +234,7 @@ TypeScript               5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 09:20:54 UTC
+ Last Updated on 27/07/2026 16:51:26 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
