@@ -169,7 +169,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 904.9 kB Used in GitHub's Storage 
+> 📦 905.0 kB Used in GitHub's Storage 
  > 
 > 🏆 1,820 Contributions in the Year 2026
  > 
@@ -206,36 +206,36 @@ Sunday                   664 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   45 mins             ████████████████████████░   96.43 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Python                   14 mins             ██████████████████████░░░   89.46 % 
+Bash                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
 
 🔥 Editors: 
-Claude Code              36 mins             ███████████████████░░░░░░   76.28 % 
-VS Code                  11 mins             ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+VS Code                  11 mins             ██████████████████░░░░░░░   70.03 % 
+Claude Code              4 mins              ███████░░░░░░░░░░░░░░░░░░   29.97 % 
 
 💻 Operating System: 
-Mac                      47 mins             █████████████████████████   100.00 % 
+Mac                      16 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 45 mins (96.43%)
+⏱ AI Coding Time: 14 mins (89.46%)
 
-✍️ 278 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 16 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 16,747,463 Input Tokens, 56,585 Output Tokens
+🔤 3,452,581 Input Tokens, 11,534 Output Tokens
 
-💵 $85.15 Estimated AI Cost This Week
+💵 $27.59 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 35 AI Prompts
+🧠 1 AI Sessions, 34 AI Prompts
 
-Opus                     323 lines           █████████████████████████   100.00 % 
+Opus                     30 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 121 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
+📝 Concise Prompter — average 112 characters per prompt
+🔁 Iterative Prompter — average 34 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -252,7 +252,7 @@ TypeScript               5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 16:47:06 UTC
+ Last Updated on 09/08/2026 02:22:23 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
