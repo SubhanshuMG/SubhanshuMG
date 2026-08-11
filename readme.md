@@ -169,7 +169,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 905.0 kB Used in GitHub's Storage 
+> 📦 904.9 kB Used in GitHub's Storage 
  > 
 > 🏆 1,820 Contributions in the Year 2026
  > 
@@ -206,37 +206,19 @@ Sunday                   664 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   14 mins             ██████████████████████░░░   89.46 % 
-Bash                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  11 mins             ██████████████████░░░░░░░   70.03 % 
-Claude Code              4 mins              ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+VS Code                  9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 mins (89.46%)
-
-✍️ 16 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 3,452,581 Input Tokens, 11,534 Output Tokens
-
-💵 $27.59 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 34 AI Prompts
-
-Opus                     30 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 112 characters per prompt
-🔁 Iterative Prompter — average 34 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -252,7 +234,7 @@ TypeScript               5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 17:07:04 UTC
+ Last Updated on 11/08/2026 02:19:20 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
