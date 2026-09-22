@@ -17,7 +17,7 @@
 - 🤖 Scroll far enough and this README admits 99.98% of last week's code was written by AI. The other 0.02% was me, fixing it
 - 👯 Will happily work with anyone who writes the runbook *before* the incident
 - 🗺️ Bengaluru, India. GitHub insists it is `127.0.0.1`, and there's no place like it
-- 🐾 The cats are Linux and Xenix. One is open source, the other was discontinued by Microsoft. They get along fine
+- 🐾 Persian dad to Linux and Xenix, who claimed the 28th as their birthday because it is mine. One is open source, the other Microsoft quietly discontinued, and both of them have root on me
 
 ---
 
