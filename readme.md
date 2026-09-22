@@ -17,7 +17,7 @@
 - 🤖 Scroll far enough and this README admits 99.98% of last week's code was written by AI. The other 0.02% was me, fixing it
 - 👯 Will happily work with anyone who writes the runbook *before* the incident
 - 🗺️ Bengaluru, India. GitHub insists it is `127.0.0.1`, and there's no place like it
-- 🐾 Persian dad to Linux and Xenix, who share my birthday and have full root on me
+- 🐾 Cat dad to Linux and Xenix who share my birthday and have full root on me :)
 
 ---
 
