@@ -21,7 +21,10 @@
 
 ---
 
-<h3 align="left">My Creations</h3>
+<details>
+<summary><b>My Creations</b> <i>(click to expand)</i></summary>
+
+<br />
 
 <table>
   <tr>
@@ -82,6 +85,8 @@
     </td>
   </tr>
 </table>
+
+</details>
 
 ---
 
