@@ -1,6 +1,6 @@
 <h1 align="left">Hey! Nice to see you..</h1>
 
-### [Subhanshu Mohan Gupta][website]
+### Myself [Subhanshu Mohan Gupta][website]
 
 <p align="left">
 <a href="https://subhanshumg.com/"><img alt="Technologist | Cat Dad" src="https://readme-typing-svg.demolab.com?lines=Technologist%20%7C%20Cat%20Dad%20%F0%9F%90%BE&left=true&width=440&height=40&font=Fira%20Code&size=22&color=58A6FF&vCenter=true&pause=1000" /></a>
@@ -21,35 +21,71 @@
 
 ---
 
-<h3 align="left">Products</h3>
+<h3 align="left">My Creations</h3>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🪪 <a href="https://proofid.in">ProofID</a></h4>
-      <p><i>Proof-of-work identity for independent workers</i></p>
-      <p>Verified digital profiles with AI credential validation, QR verification and PDF portfolio generation.</p>
-      <sub><b>Next.js 14 · Supabase · OpenAI · TypeScript · Razorpay</b></sub>
+      <a href="https://proofid.in"><img src="https://raw.githubusercontent.com/SubhanshuMG/SubhanshuMG/master/assets/logos/proofid.png" width="52" alt="ProofID" align="left" hspace="10" /></a>
+      <h4><a href="https://proofid.in">ProofID</a> <sub><code>BETA</code></sub></h4>
+      <p><i>Portable proof-of-work identity</i></p>
+      <p>Because "trust me bro" is not a verification standard. Tamper-evident work history freelancers actually own, with exportable SHA-256 proof chains that survive a platform shutting down.</p>
+      <sub><b>React · TypeScript · Supabase · Vercel · SHA-256 · RLS</b></sub>
     </td>
     <td width="50%" valign="top">
-      <h4>⚒️ <a href="https://forgekit.build">ForgeKit</a></h4>
-      <p><i>Engineering acceleration for AI, DevOps and full-stack teams</i></p>
-      <p>Scaffolds a production-ready project in one command, taking day-0 setup from a two-day playbook to under seven minutes.</p>
-      <sub><b>TypeScript · Node.js · CLI · GitHub Actions · Monorepo</b></sub>
+      <a href="https://forgekit.build"><img src="https://raw.githubusercontent.com/SubhanshuMG/SubhanshuMG/master/assets/logos/forgekit.png" width="52" alt="ForgeKit" align="left" hspace="10" /></a>
+      <h4><a href="https://forgekit.build">ForgeKit</a> <sub><code>OSS</code></sub></h4>
+      <p><i>Engineering acceleration platform</i></p>
+      <p>Stop configuring ESLint, start shipping. One CLI command turns a 3 to 5 day project bootstrap into under two minutes, with CI, Docker and observability already wired.</p>
+      <sub><b>TypeScript · Node.js · Commander.js · Jest · GitHub Actions</b></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🫀 <a href="https://livebetter.one">LiveBetter</a></h4>
-      <p><i>Preventive health intelligence that learns how your body works</i></p>
-      <p>Folds sleep, mood, stress, energy and wearable data into one daily wellness score. Web and mobile, shared domain logic.</p>
-      <sub><b>Next.js 14 · FastAPI · React Native · Supabase · OpenAI</b></sub>
+      <a href="https://livebetter.one"><img src="https://raw.githubusercontent.com/SubhanshuMG/SubhanshuMG/master/assets/logos/livebetter.png" width="52" alt="LiveBetter" align="left" hspace="10" /></a>
+      <h4><a href="https://livebetter.one">LiveBetter</a> <sub><code>BUILDING</code></sub></h4>
+      <p><i>Preventive health intelligence</i></p>
+      <p>Track your health before your doctor has to track it for you. Habits, vitals and lifestyle patterns stored on-device, with optional cloud sync for the optimists.</p>
+      <sub><b>React Native · TypeScript · Expo · Supabase · Health APIs</b></sub>
     </td>
     <td width="50%" valign="top">
-      <h4>🗓️ <a href="https://28081999.me">28081999.me</a></h4>
-      <p><i>A daily census of how the web treats AI agents</i></p>
-      <p>Asks a frozen cohort of 2,110 origins who they let read them, resolving a decision per crawler. Plus a date-addressed archive an agent can query for what it never saw.</p>
-      <sub><b>Node.js 20 · Static site · GitHub Actions · GitHub Pages · JSON API</b></sub>
+      <a href="https://28081999.me"><img src="https://raw.githubusercontent.com/SubhanshuMG/SubhanshuMG/master/assets/logos/28081999.png" width="52" alt="28081999.me" align="left" hspace="10" /></a>
+      <h4><a href="https://28081999.me">28081999.me</a> <sub><code>AUTONOMOUS</code></sub></h4>
+      <p><i>Date-addressed world archive</i></p>
+      <p>Every model has a knowledge cutoff; this is the patch file. A cron job records what the world looked up and freezes it, so an agent can ask what happened after its training ended and get an exact answer.</p>
+      <sub><b>Node.js · GitHub Actions · GitHub Pages · Static JSON API</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://cai-secwins.subhanshumg.com"><img src="https://raw.githubusercontent.com/SubhanshuMG/SubhanshuMG/master/assets/logos/secwins.png" width="52" alt="SecWins" align="left" hspace="10" /></a>
+      <h4><a href="https://cai-secwins.subhanshumg.com">SecWins</a> <sub><code>INTERNAL</code></sub></h4>
+      <p><i>DevSecOps evidence ledger</i></p>
+      <p>A security metric nobody can trace back to an artifact is a feeling with a number attached. Collection is automated; judgement is not. Nothing reaches the board without a live link and an owner.</p>
+      <sub><b>Python 3.12 · FastAPI · Jinja2 · Supabase · Docker · Vercel</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://x-app.subhanshumg.com"><img src="https://raw.githubusercontent.com/SubhanshuMG/SubhanshuMG/master/assets/logos/x-growth.png" width="52" alt="X-Growth" align="left" hspace="10" /></a>
+      <h4><a href="https://x-app.subhanshumg.com">X-Growth</a> <sub><code>PAUSED</code></sub></h4>
+      <p><i>Multi-agent X growth system</i></p>
+      <p>Seventeen agents arguing about what is worth posting, so I do not have to. Claude scores every draft out of ten and silently drops anything below the bar.</p>
+      <sub><b>Python · Claude API · X API · Supabase · Next.js 15</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://archeonglobal.com"><img src="https://raw.githubusercontent.com/SubhanshuMG/SubhanshuMG/master/assets/logos/archeon.png" width="52" alt="Archeon Global" align="left" hspace="10" /></a>
+      <h4><a href="https://archeonglobal.com">Archeon Global</a> <sub><code>VENTURE</code></sub></h4>
+      <p><i>Engineering a more certain tomorrow</i></p>
+      <p>An engineering number nobody can trace is a rumour with decimal places. Software whose results carry their own evidence: the formula as implemented, the values substituted, the clause it answers to.</p>
+      <sub><b>Python · FastAPI · React 18 · TypeScript · Fly.io · Supabase</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://tanklogic.archeonglobal.com"><img src="https://raw.githubusercontent.com/SubhanshuMG/SubhanshuMG/master/assets/logos/tanklogic.png" width="52" alt="TankLogic" align="left" hspace="10" /></a>
+      <h4><a href="https://tanklogic.archeonglobal.com">TankLogic</a> <sub><code>SHIPPED</code></sub></h4>
+      <p><i>API 650 tank design, out of Excel</i></p>
+      <p>Tank teams chain interlinked spreadsheets where every hand-off is re-typed and every revision silently invalidates something downstream. This replaces the chain with linked modules and a signed package.</p>
+      <sub><b>Python 3.12 · FastAPI · React 18 · TypeScript · Fly.io</b></sub>
     </td>
   </tr>
 </table>
