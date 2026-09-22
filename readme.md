@@ -1,64 +1,76 @@
-<h1 align="left">Hey! Nice to see you.. 
+<h1 align="left">Hey! Nice to see you..</h1>
 
 ### <i>Myself</i> [Subhanshu Mohan Gupta][website]
   
-  <p align="left"><a href="https://github.com/SubhanshuMG/readme-typing-svg">
-  <a href="https://subhanshumg.com/"><img src="https://readme-typing-svg.demolab.com?lines=DevSecOps%20|%20Cloud%20|%20MLOps%20|%20Full-Stack%20Builder;&left=true&width=1000&height=30"></p></a> 
+  <p align="left">
+  <a href="https://subhanshumg.com/"><img src="https://readme-typing-svg.demolab.com?lines=DevSecOps%20|%20Cloud%20|%20MLOps%20|%20Full-Stack%20Builder;&left=true&width=1000&height=30"></a>
+  </p>
 
-<i>A dedicated technologist specialising in DevSecOps, Cloud Infrastructure, and MLOps building and scaling production systems on AWS, GCP, and Azure with Terraform, Kubernetes, and CI/CD pipelines. I build full-stack products end-to-end using Next.js, FastAPI, React Native, and Supabase.
-<br>Beyond my core infrastructure work, I thrive on shipping real products from identity platforms to health intelligence apps to developer tooling CLIs. I also enjoy unwinding with video games and engaging in activities that fuel my curiosity and creativity.
-<br>My ultimate goal is to contribute meaningfully and make this world a better place to live.</i>
+<i>DevSecOps, Cloud and MLOps — which mostly means I build the parts nobody puts in a demo: the pipelines, the platforms, and the alert that fires at 3AM because a disk filled up. Production systems on AWS, GCP and Azure, held together with Terraform, Kubernetes, and a healthy suspicion of anything marketed as "self-healing."
+<br>The rest of the time I ship actual products end to end — identity verification, preventive health, developer tooling — on Next.js, FastAPI, React Native and Supabase. I have strong opinions about microservices. Most of them are in the repos below, with diagrams.
+<br>Long-term goal: build something that outlives its own CI pipeline.</i>
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhanshumg" alt="subhanshumg" /></a> </p> -->
 
 
-- 🌱 Working for an IT company as a Lead DevOps Engineer
-- 👯 Looking to collaborate with other developers & content creators
-- 🥅 2026 Goals - Contribute more to open-source projects
-- 🐾 Fun fact - My cats' names are Linux and Xenix
+- 🧱 Lead DevOps Engineer — I own the pipeline, which is the formal way of saying I own the outage
+- 🥅 My 2026 goal was "contribute more to open source." It is now September and there are 91 public repos down there. I'm calling that a win
+- 🤖 Scroll far enough and this README will cheerfully report that 99.98% of last week's lines were written by AI. The other 0.02% was me, fixing them
+- 👯 Happy to collaborate with anyone who writes the runbook *before* the incident
+- 🗺️ Location: `127.0.0.1` — there's no place like it
+- 🐾 My cats are named Linux and Xenix. One is open source, the other was discontinued by Microsoft. They get along fine
 
 ---
 
 <h3 align="left">Featured Projects</h3>
+<sub><i>The ones that made it past the "weekend prototype" stage.</i></sub>
 
 <table>
   <tr>
-    <td width="33%">
+    <td width="50%" valign="top">
       <h4><a href="https://proofid.in">ProofID</a></h4>
       <p><i>Proof-of-work identity platform for independent workers</i></p>
       <p>Verified digital profiles with AI-powered credential validation, QR verification, and PDF portfolio generation.</p>
       <sub>Next.js 14 · Supabase · OpenAI · TypeScript · Razorpay</sub>
     </td>
-    <td width="33%">
+    <td width="50%" valign="top">
       <h4><a href="https://forgekit.build">ForgeKit</a></h4>
       <p><i>Engineering acceleration platform for AI, DevOps & full-stack teams</i></p>
       <p>Scaffold fully wired, production-ready projects with one command. Templates for web apps, APIs, ML pipelines & serverless.</p>
       <sub>TypeScript · Node.js · CLI · GitHub Actions · Monorepo</sub>
     </td>
-    <td width="33%">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h4><a href="https://livebetter.one">LiveBetter</a></h4>
       <p><i>Preventive health intelligence that learns how your body works</i></p>
       <p>Connects sleep, mood, stress, energy & wearable data into a personalized daily wellness score. Web + Mobile.</p>
       <sub>Next.js 14 · FastAPI · React Native · Supabase · OpenAI</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://28081999.me">28081999.me</a></h4>
+      <p><i>A daily census of how the web treats AI agents</i></p>
+      <p>Asks a frozen cohort of 2,110 origins who they let read them, resolving a decision per crawler. Plus a date-addressed archive an agent can query for what it never saw.</p>
+      <sub>Node.js 20 · Static site · GitHub Actions · GitHub Pages · JSON API</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find me here:</h3>
+<sub><i>Response time inversely proportional to how the deploy is going.</i></sub>
 <p align="left"> 
 <a href="https://twitter.com/SubhanshuMG"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> 
 &nbsp;<a href="https://www.linkedin.com/in/subhanshu-mohan-gupta-039559123/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
 &nbsp;<a href="https://instagram.com/subhanshu_mg"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/ height=28></a>  
 </p>
 
-</p>
-
 ---
 
 <h3 align="left">Things I code with:</h3>
+<sub><i>Loosely ordered by how many Fridays each one has personally ruined.</i></sub>
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -92,6 +104,7 @@
   <img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
   <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Claude Code" src="https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
 </p>
 
@@ -115,6 +128,7 @@
 <!--  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhanshumg&show_icons=true&locale=en" alt="subhanshumg" /> -->
 
 <h3 align="left">Stats, Activities and Contributions:</h3>
+<sub><i>Generated on a cron, which is the only reason they are still accurate.</i></sub>
 
 <!-- <details>
   <summary><b>Github Stats & Most Used Langauges <i></b><font color="blue">(click to expand)</i></font></b></summary>
@@ -141,7 +155,7 @@
 
  <details>
 <summary><b>Github Contributions <i><font color="blue"></b>(click to expand)</i></font></summary>    
-<br><p align="left"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SubhanshuMG&theme=github_dark" alt="SubhanshuMG's github stats" /></a><br></p>  
+<br><p align="left"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SubhanshuMG&theme=github_dark" alt="SubhanshuMG's github stats" /></a><br></p>  
 </details>
   
 <!-- <details>  
@@ -163,7 +177,7 @@
 <details>  
   <summary><b>Wakatime Data & Productivity <i></b><font color="blue">(click to expand)</i></font></summary>
   <br/>  
-  <p align="left">
+
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-230%20hrs%2057%20mins-blue?style=flat)
 
@@ -259,7 +273,6 @@ TypeScript               6 repos             ██░░░░░░░░░�
 
  Last Updated on 22/09/2026 04:38:38 UTC
 <!--END_SECTION:waka-->
-  </p>
 </details>
 
 ---
@@ -274,12 +287,17 @@ TypeScript               6 repos             ██░░░░░░░░░�
   
 ## 
 <br> -->
-<p align="left"><img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-121.4%20million%20lines%20of%20code-black" /></p>
+<h3 align="left">Numbers of varying credibility:</h3>
 
-[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=plastic&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D25433)](https://codetime.dev)
-<p align="left"><img src="https://img.shields.io/github/last-commit/SubhanshuMG/SubhanshuMG?style=flat-square?color=blue&label=Last%20Updated%20" /></p>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=subhanshumg&label=Profile%20views&color=0e75b6&style=flat" alt="subhanshumg" /></p>
-<p align="left"><img src="http://img.shields.io/badge/Code%20Time-6%2C158%20hrs%206%20mins-black" /></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-121.4%20million%20lines%20of%20code-black" alt="Lines of code written since Hello World" />
+  <img src="https://img.shields.io/badge/Code%20Time-6%2C158%20hrs%206%20mins-black" alt="Total code time" />
+  <a href="https://codetime.dev"><img src="https://shields.jannchie.com/endpoint?style=flat-square&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D25433" alt="CodeTime" /></a>
+  <img src="https://img.shields.io/github/last-commit/SubhanshuMG/SubhanshuMG?style=flat-square&color=blue&label=Last%20Updated%20" alt="Last updated" />
+  <img src="https://komarev.com/ghpvc/?username=subhanshumg&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<sub><i>121.4 million lines across 6,158 recorded hours is 329 lines a minute, every minute, without pausing. I have elected not to audit these two badges in each other's company.</i></sub>
 
 
 [website]: https://subhanshumg.com/
