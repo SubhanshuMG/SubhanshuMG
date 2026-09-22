@@ -7,7 +7,7 @@
 </p>
 
 <i>I build the infrastructure nobody notices until it breaks, at which point everybody notices it.
-<br>The rest of the time I argue with YAML and lose to two cats.</i>
+<br>The rest of the time I argue with YAML and lose to both of my cats.</i>
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhanshumg" alt="subhanshumg" /></a> </p> -->
@@ -89,6 +89,19 @@
     </td>
   </tr>
 </table>
+
+<h4 align="left">🎨 Also built, for people I like</h4>
+
+<p align="left">
+<b><a href="https://www.artworkbysumi.com">Artwork By Sumi</a></b> · <i>Gallery and shop for a sketch artist</i><br />
+<sub>for Suman Kumari · Pilani, Rajasthan</sub>
+</p>
+
+<p align="left">
+Built for a close friend who draws in graphite. Visitors browse her originals, read her story, commission a custom piece and buy in rupees. She runs all of it herself from a studio panel: adding work, following orders, answering enquiries, without touching code or asking me.<br />
+<sub><b>Next.js 15 · React 19 · Tailwind 4 · Supabase · Razorpay · Resend</b></sub><br />
+<sub><i>Private repository: her shop, not a product of mine.</i></sub>
+</p>
 
 ---
 
