@@ -1,12 +1,12 @@
 <h1 align="left">Hey! Nice to see you..</h1>
 
-### Myself [Subhanshu Mohan Gupta][website]
+### <i> Myself [Subhanshu Mohan Gupta][website] </i>
 
 <p align="left">
 <a href="https://subhanshumg.com/"><img alt="Technologist | Cat Dad" src="https://readme-typing-svg.demolab.com?lines=Technologist%20%7C%20Cat%20Dad%20%F0%9F%90%BE&left=true&width=440&height=40&font=Fira%20Code&size=22&color=58A6FF&vCenter=true&pause=1000" /></a>
 </p>
 
-<i>I build the infrastructure nobody notices until it breaks, at which point everybody notices it.
+<i>I build the infrastructure nobody notices until it breaks at which point everybody notices it.
 <br>The rest of the time I argue with YAML and lose to both of my cats.</i>
 
 
@@ -16,7 +16,6 @@
 - 🥅 The 2026 goal was "contribute more to open source." It is September. There are 91 public repos down there. Calling it
 - 🤖 Scroll far enough and this README admits 99.98% of last week's code was written by AI. The other 0.02% was me, fixing it
 - 👯 Will happily work with anyone who writes the runbook *before* the incident
-- 🗺️ Bengaluru, India. GitHub insists it is `127.0.0.1`, and there's no place like it
 - 🐾 Cat dad to Linux and Xenix who share my birthday and have full root on me :)
 
 ---
@@ -87,8 +86,6 @@
 </table>
 
 </details>
-
----
 
 <details>
 <summary><b>Open Source</b> <i>(click to expand)</i></summary>
@@ -167,7 +164,7 @@
 <h3 align="left">Find me here:</h3>
 
 <p align="left"> 
-<a href="https://subhanshumg.com/"><img src="https://img.shields.io/badge/Portfolio-%23030305.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a> 
+<!-- <a href="https://subhanshumg.com/"><img src="https://img.shields.io/badge/Portfolio-%23030305.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>  -->
 &nbsp;<a href="https://www.linkedin.com/in/subhanshumg/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 &nbsp;<a href="https://x.com/SubhanshuMG"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a> 
 &nbsp;<a href="https://www.upwork.com/freelancers/~018dbde5ce287cbf75"><img src="https://img.shields.io/badge/Upwork-%236FDA44.svg?style=for-the-badge&logo=upwork&logoColor=white"/></a> 
