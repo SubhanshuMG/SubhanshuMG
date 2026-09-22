@@ -6,7 +6,7 @@
 <a href="https://subhanshumg.com/"><img alt="Technologist | Cat Dad" src="https://readme-typing-svg.demolab.com?lines=Technologist%20%7C%20Cat%20Dad%20%F0%9F%90%BE&left=true&width=440&height=40&font=Fira%20Code&size=22&color=58A6FF&vCenter=true&pause=1000" /></a>
 </p>
 
-<i>I build the infrastructure nobody notices until it breaks — at which point everybody notices it.
+<i>I build the infrastructure nobody notices until it breaks, at which point everybody notices it.
 <br>The rest of the time I argue with YAML and lose to two cats.</i>
 
 
@@ -16,43 +16,112 @@
 - 🥅 The 2026 goal was "contribute more to open source." It is September. There are 91 public repos down there. Calling it
 - 🤖 Scroll far enough and this README admits 99.98% of last week's code was written by AI. The other 0.02% was me, fixing it
 - 👯 Will happily work with anyone who writes the runbook *before* the incident
-- 🗺️ Bengaluru, India. GitHub insists it is `127.0.0.1` — there's no place like it
+- 🗺️ Bengaluru, India. GitHub insists it is `127.0.0.1`, and there's no place like it
 - 🐾 The cats are Linux and Xenix. One is open source, the other was discontinued by Microsoft. They get along fine
 
 ---
 
-<h3 align="left">Featured Projects</h3>
+<h3 align="left">Products</h3>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://proofid.in">ProofID</a></h4>
-      <p><i>Proof-of-work identity platform for independent workers</i></p>
-      <p>Verified digital profiles with AI-powered credential validation, QR verification, and PDF portfolio generation.</p>
-      <sub>Next.js 14 · Supabase · OpenAI · TypeScript · Razorpay</sub>
+      <h4>🪪 <a href="https://proofid.in">ProofID</a></h4>
+      <p><i>Proof-of-work identity for independent workers</i></p>
+      <p>Verified digital profiles with AI credential validation, QR verification and PDF portfolio generation.</p>
+      <sub><b>Next.js 14 · Supabase · OpenAI · TypeScript · Razorpay</b></sub>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://forgekit.build">ForgeKit</a></h4>
-      <p><i>Engineering acceleration platform for AI, DevOps & full-stack teams</i></p>
-      <p>Scaffold fully wired, production-ready projects with one command. Templates for web apps, APIs, ML pipelines & serverless.</p>
-      <sub>TypeScript · Node.js · CLI · GitHub Actions · Monorepo</sub>
+      <h4>⚒️ <a href="https://forgekit.build">ForgeKit</a></h4>
+      <p><i>Engineering acceleration for AI, DevOps and full-stack teams</i></p>
+      <p>Scaffolds a production-ready project in one command, taking day-0 setup from a two-day playbook to under seven minutes.</p>
+      <sub><b>TypeScript · Node.js · CLI · GitHub Actions · Monorepo</b></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://livebetter.one">LiveBetter</a></h4>
+      <h4>🫀 <a href="https://livebetter.one">LiveBetter</a></h4>
       <p><i>Preventive health intelligence that learns how your body works</i></p>
-      <p>Connects sleep, mood, stress, energy & wearable data into a personalized daily wellness score. Web + Mobile.</p>
-      <sub>Next.js 14 · FastAPI · React Native · Supabase · OpenAI</sub>
+      <p>Folds sleep, mood, stress, energy and wearable data into one daily wellness score. Web and mobile, shared domain logic.</p>
+      <sub><b>Next.js 14 · FastAPI · React Native · Supabase · OpenAI</b></sub>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://28081999.me">28081999.me</a></h4>
+      <h4>🗓️ <a href="https://28081999.me">28081999.me</a></h4>
       <p><i>A daily census of how the web treats AI agents</i></p>
       <p>Asks a frozen cohort of 2,110 origins who they let read them, resolving a decision per crawler. Plus a date-addressed archive an agent can query for what it never saw.</p>
-      <sub>Node.js 20 · Static site · GitHub Actions · GitHub Pages · JSON API</sub>
+      <sub><b>Node.js 20 · Static site · GitHub Actions · GitHub Pages · JSON API</b></sub>
     </td>
   </tr>
 </table>
+
+---
+
+<h3 align="left">Open Source</h3>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>🛡️ Security &amp; Compliance</b><br /><br />
+      <a href="https://github.com/SubhanshuMG/eBPF-Driven-Security-Observability">eBPF Security Observability</a><br />
+      <sub>Container escape detection, 6 hrs to 90 s</sub><br /><br />
+      <a href="https://github.com/SubhanshuMG/agentic-ai-eu-compliance">Agentic AI EU Compliance</a><br />
+      <sub>92% of EU AI Act Article 9 mapped to CI gates</sub><br /><br />
+      <a href="https://github.com/SubhanshuMG/DevSecOps-Project">DevSecOps on AWS EKS</a><br />
+      <sub>CVE turnaround, 14 days to 28 hrs</sub><br /><br />
+      <a href="https://github.com/SubhanshuMG/AI-powered-container-security">AI-Powered Container Security</a><br />
+      <sub>Risky workloads caught before prod, not after</sub><br /><br />
+      <a href="https://github.com/SubhanshuMG/DevSecOps-Bootcamp">DevSecOps Bootcamp</a><br />
+      <sub>Harden code, pipelines and infra one task at a time</sub><br /><br />
+    </td>
+    <td width="33%" valign="top">
+      <b>🤖 AI &amp; Agents</b><br /><br />
+      <a href="https://github.com/SubhanshuMG/agentic-rag-devsecops">Agentic RAG for DevSecOps</a><br />
+      <sub>Retrieval precision, 0.41 to 0.83</sub><br /><br />
+      <a href="https://github.com/SubhanshuMG/RAG-LLM-deployment">AI Research Assistant</a><br />
+      <sub>12 min of lookup down to 40 s</sub><br /><br />
+      <a href="https://github.com/SubhanshuMG/agents-as-state-machines">Agents as State Machines</a><br />
+      <sub>One agent and a state machine beats five in costume</sub><br /><br />
+      <a href="https://github.com/SubhanshuMG/terminal-bench-2-hard-devops-diagnostics">Terminal Bench: Hard Tier</a><br />
+      <sub>Frontier models score 31% here, 78% on average</sub><br /><br />
+      <a href="https://github.com/SubhanshuMG/capstone-project">Shop-U-Now AI Assistant</a><br />
+      <sub>NDCG@5, 0.46 to 0.71</sub><br /><br />
+    </td>
+    <td width="33%" valign="top">
+      <b>☁️ Cloud &amp; Automation</b><br /><br />
+      <a href="https://github.com/SubhanshuMG/oncall-burnout-fix">On-Call Incident Triage</a><br />
+      <sub>Page to acknowledgement, 9 min to 47 s</sub><br /><br />
+      <a href="https://github.com/SubhanshuMG/multi-region-tenant-setup">Multi-Region Tenant Infra</a><br />
+      <sub>New tenant, new region, 2 days to 17 min</sub><br /><br />
+      <a href="https://github.com/SubhanshuMG/survival-grade-infra">Survival-Grade Infra</a><br />
+      <sub>Systems that outlive a regional collapse</sub><br /><br />
+      <a href="https://github.com/SubhanshuMG/bitcoin-regtest-devops">Bitcoin Regtest Pipeline</a><br />
+      <sub>CI confirms a real transaction in 42 s</sub><br /><br />
+      <a href="https://github.com/SubhanshuMG/Rolling-updates">Automated Rolling Updates</a><br />
+      <sub>60-node fleet upgrades, zero downtime</sub><br /><br />
+    </td>
+  </tr>
+</table>
+
+<p align="left">
+<b>📐 Architecture notes</b> (opinions, with diagrams):
+<a href="https://github.com/SubhanshuMG/distributed-monolith-tax">Distributed Monolith Tax</a> ·
+<a href="https://github.com/SubhanshuMG/short-lived-oidc-for-ci-kill-tokens">Short-Lived OIDC for CI</a> ·
+<a href="https://github.com/SubhanshuMG/teefail-broke-confidential-compute">TEE.fail</a> ·
+<a href="https://github.com/SubhanshuMG/eu-cra-countdown-ce-marked-software">EU CRA Countdown</a> ·
+<a href="https://github.com/SubhanshuMG/the-50ms-edge-ai-lie">The 50ms Edge AI Lie</a> ·
+<a href="https://github.com/SubhanshuMG/agentic-soc-platform-own-vs-buy">Agentic SOC, Own vs Buy</a> ·
+<a href="https://github.com/SubhanshuMG/crypto-inventory-platform-workstream">Crypto Inventory</a>
+</p>
+
+<p align="left">
+<b>🧪 Earlier things</b>:
+<a href="https://github.com/Subhanshu-Mohan-Gupta/Team-Builder">Team Builder</a> ·
+<a href="https://github.com/SubhanshuMG/sorting-visualizer">Sorting Visualizer</a> ·
+<a href="https://github.com/SubhanshuMG/Currency-Convertor">Currency Convertor</a> ·
+<a href="https://github.com/SubhanshuMG/WebRES.github.io">WebRES</a> ·
+<a href="https://github.com/SubhanshuMG/GeolocationSMG.github.io">Geolocation Finder</a> ·
+<a href="https://github.com/SubhanshuMG/gitlab-import-export">GitLab Migration Toolkit</a>
+</p>
 
 ---
 
@@ -156,7 +225,7 @@
 
  <details>
 <summary><b>Github Contributions <i><font color="blue"></b>(click to expand)</i></font></summary>    
-<br><p align="left"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SubhanshuMG&theme=github_dark" alt="SubhanshuMG's github stats" /></a><br></p>  
+<br><p align="left"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SubhanshuMG&theme=github_dark" alt="SubhanshuMG's github stats" /></a></p>  
 </details>
   
 <!-- <details>  
@@ -180,7 +249,6 @@
   <br/>  
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-230%20hrs%2057%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
