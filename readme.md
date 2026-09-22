@@ -20,6 +20,104 @@
 
 ---
 
+<h3 align="left">Find me here</h3>
+
+<p align="left"> 
+<!-- <a href="https://subhanshumg.com/"><img src="https://img.shields.io/badge/Portfolio-%23030305.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>  -->
+&nbsp;<a href="https://www.linkedin.com/in/subhanshumg/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+&nbsp;<a href="https://x.com/SubhanshuMG"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a> 
+&nbsp;<a href="https://www.upwork.com/freelancers/~018dbde5ce287cbf75"><img src="https://img.shields.io/badge/Upwork-%236FDA44.svg?style=for-the-badge&logo=upwork&logoColor=white"/></a> 
+&nbsp;<a href="https://instagram.com/subhanshu_mg"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>  
+</p>
+
+---
+
+<h3 align="left">Things I code with</h3>
+
+<p align="left">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img alt="HCL" src="https://img.shields.io/badge/-HCL-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="Argo CD" src="https://img.shields.io/badge/-Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-GCP-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+  <img alt="Oracle Cloud" src="https://img.shields.io/badge/-OCI-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img alt="GitLab CI" src="https://img.shields.io/badge/-GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+  <img alt="SonarQube" src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+  <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Claude Code" src="https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+</p>
+
+---
+
+<!-- <details>
+  <summary>:zap: Most Used Languages</summary>
+  <br /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhanshumg&show_icons=true&locale=en&layout=compact" alt="subhanshumg" />
+
+  
+<details>
+  <br><summary>:zap: GitHub Stats</summary>
+  <br><img align="right" src="https://github-readme-stats.vercel.app/api?username=subhanshumg&show_icons=true&locale=en" alt="subhanshumg" />
+
+
+<details>
+  <br><summary>:zap: Streaks and Contributions</summary>
+  <br><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=subhanshumg&" alt="subhanshumg" />
+</details> -->
+  
+<!--  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhanshumg&show_icons=true&locale=en" alt="subhanshumg" /> -->
+
+<h3 align="left">Expand the below pointers to know more about me</h3>
+
+<!-- <details>
+  <summary><b>Github Stats & Most Used Langauges <i></b><font color="blue">(click to expand)</i></font></b></summary>
+<p align="center">
+<br><img alt="SubhanshuMG Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhanshuMG&show_icons=true&hide_border=false&count_private=true&theme=github_dark&rank_icon=github" height=190px />
+&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhanshuMG&show_icons=true&hide_border=false&locale=en&layout=compact&theme=github_dark" alt="SubhanshuMG" height=190px />
+</p>
+</details>
+
+
+<details>
+  <summary><b>Wakatime Stats (since JUL 7 2023) <i></b><font color="blue">(click to expand)</i></font></summary>
+<p align="center">
+<br><img alt="Wakatime Stats (Since 7 July 2023)" src="https://github-readme-stats.vercel.app/api/wakatime?username=SubhanshuMG&layout=compact&theme=github_dark" />
+</p>
+</details> -->  
+
+<!-- <br><a href="https://github.com/SubhanshuMG/github-readme-stats"><img alt="SubhanshuMG Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhanshuMG&show_icons=true&count_private=true&theme=algolia" height="191px" width="54%"/></a>
+&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhanshuMG&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SubhanshuMG" height="191px" width="45%"/> -->
+  
+
+<!-- [![](https://github-readme-stats.vercel.app/api?username=SubhanshuMG&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/SubhanshuMG) 
+[![](https://github-readme-streak-stats.herokuapp.com/?user=SubhanshuMG&theme=material-palenight)](https://github.com/SubhanshuMG) -->
+
 <details>
 <summary><b>My Creations</b> <i>(click to expand)</i></summary>
 
@@ -38,7 +136,7 @@
       <p><i>Engineering acceleration platform</i></p>
       <p>Stop configuring ESLint, start shipping.</p>
       <sub><b>TypeScript · Node.js · Commander.js · GitHub Actions</b></sub>
-      <p><a href="https://www.bestpractices.dev/projects/12234"><img src="https://www.bestpractices.dev/projects/12234/badge" alt="OpenSSF Best Practices passing" /></a></p>
+      <!-- <p><a href="https://www.bestpractices.dev/projects/12234"><img src="https://www.bestpractices.dev/projects/12234/badge" alt="OpenSSF Best Practices passing" /></a></p> -->
     </td>
   </tr>
   <tr>
@@ -158,106 +256,6 @@
 </p>
 
 </details>
-
----
-
-<h3 align="left">Find me here:</h3>
-
-<p align="left"> 
-<!-- <a href="https://subhanshumg.com/"><img src="https://img.shields.io/badge/Portfolio-%23030305.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>  -->
-&nbsp;<a href="https://www.linkedin.com/in/subhanshumg/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-&nbsp;<a href="https://x.com/SubhanshuMG"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a> 
-&nbsp;<a href="https://www.upwork.com/freelancers/~018dbde5ce287cbf75"><img src="https://img.shields.io/badge/Upwork-%236FDA44.svg?style=for-the-badge&logo=upwork&logoColor=white"/></a> 
-&nbsp;<a href="https://instagram.com/subhanshu_mg"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>  
-</p>
-
----
-
-<h3 align="left">Things I code with:</h3>
-
-<p align="left">
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-  <img alt="HCL" src="https://img.shields.io/badge/-HCL-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="Argo CD" src="https://img.shields.io/badge/-Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
-  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-GCP-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
-  <img alt="Oracle Cloud" src="https://img.shields.io/badge/-OCI-F80000?style=flat-square&logo=oracle&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-  <img alt="GitLab CI" src="https://img.shields.io/badge/-GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
-  <img alt="SonarQube" src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img alt="React Native" src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-  <img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
-  <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Claude Code" src="https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
-</p>
-
----
-
-<!-- <details>
-  <summary>:zap: Most Used Languages</summary>
-  <br /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhanshumg&show_icons=true&locale=en&layout=compact" alt="subhanshumg" />
-
-  
-<details>
-  <br><summary>:zap: GitHub Stats</summary>
-  <br><img align="right" src="https://github-readme-stats.vercel.app/api?username=subhanshumg&show_icons=true&locale=en" alt="subhanshumg" />
-
-
-<details>
-  <br><summary>:zap: Streaks and Contributions</summary>
-  <br><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=subhanshumg&" alt="subhanshumg" />
-</details> -->
-  
-<!--  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhanshumg&show_icons=true&locale=en" alt="subhanshumg" /> -->
-
-<h3 align="left">Stats, Activities and Contributions:</h3>
-
-<!-- <details>
-  <summary><b>Github Stats & Most Used Langauges <i></b><font color="blue">(click to expand)</i></font></b></summary>
-<p align="center">
-<br><img alt="SubhanshuMG Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhanshuMG&show_icons=true&hide_border=false&count_private=true&theme=github_dark&rank_icon=github" height=190px />
-&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhanshuMG&show_icons=true&hide_border=false&locale=en&layout=compact&theme=github_dark" alt="SubhanshuMG" height=190px />
-</p>
-</details>
-
-
-<details>
-  <summary><b>Wakatime Stats (since JUL 7 2023) <i></b><font color="blue">(click to expand)</i></font></summary>
-<p align="center">
-<br><img alt="Wakatime Stats (Since 7 July 2023)" src="https://github-readme-stats.vercel.app/api/wakatime?username=SubhanshuMG&layout=compact&theme=github_dark" />
-</p>
-</details> -->  
-
-<!-- <br><a href="https://github.com/SubhanshuMG/github-readme-stats"><img alt="SubhanshuMG Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhanshuMG&show_icons=true&count_private=true&theme=algolia" height="191px" width="54%"/></a>
-&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhanshuMG&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SubhanshuMG" height="191px" width="45%"/> -->
-  
-
-<!-- [![](https://github-readme-stats.vercel.app/api?username=SubhanshuMG&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/SubhanshuMG) 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=SubhanshuMG&theme=material-palenight)](https://github.com/SubhanshuMG) -->
 
  <details>
 <summary><b>Github Contributions <i><font color="blue"></b>(click to expand)</i></font></summary>    
@@ -392,7 +390,7 @@ TypeScript               6 repos             ██░░░░░░░░░�
   
 ## 
 <br> -->
-<h3 align="left">Numbers of varying credibility:</h3>
+<h3 align="left">Numbers of varying credibility</h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-121.4%20million%20lines%20of%20code-black?style=flat-square" alt="Lines of code written since Hello World" />
@@ -402,7 +400,7 @@ TypeScript               6 repos             ██░░░░░░░░░�
   <img src="https://komarev.com/ghpvc/?username=subhanshumg&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
-<sub><i>121.4 million lines across 6,158 hours is 329 a minute, without pausing. I have elected not to investigate.</i></sub>
+<sub><i>121.4 million lines across 6,158 hours is 329 a minute without pausing. I have elected not to investigate.</i></sub>
 
 
 [website]: https://subhanshumg.com/
