@@ -1,32 +1,27 @@
 <h1 align="left">Hey! Nice to see you..</h1>
 
-### <i>Myself</i> [Subhanshu Mohan Gupta][website]
-  
-  <p align="left">
-  <a href="https://subhanshumg.com/"><img src="https://readme-typing-svg.demolab.com?lines=DevSecOps%20|%20Cloud%20|%20MLOps%20|%20Full-Stack%20Builder;&left=true&width=1000&height=30"></a>
-  </p>
+### [Subhanshu Mohan Gupta][website]
 
-<i>Senior Staff Engineer for DevSecOps at <b>Concentric AI</b> — which mostly means I build the parts nobody puts in a demo: the pipelines, the developer guardrails, and the SOC 2 control that somebody eventually has to produce evidence for. Five years of secure cloud foundations for regulated, high-throughput environments across AWS, GCP, Azure and OCI, held together with Terraform, Kubernetes, and a healthy suspicion of anything marketed as "self-healing."
-<br>The rest of the time I ship products end to end — <a href="https://proofid.in">ProofID</a>, <a href="https://livebetter.one">LiveBetter</a>, <a href="https://forgekit.build">ForgeKit</a> — on Next.js, FastAPI, React Native and Supabase. I have strong opinions about microservices. Most of them are in the repos below, with diagrams.
-<br>Long-term goal: build something that outlives its own CI pipeline.</i>
+<p align="left">
+<a href="https://subhanshumg.com/"><img alt="Technologist | Cat Dad" src="https://readme-typing-svg.demolab.com?lines=Technologist%20%7C%20Cat%20Dad%20%F0%9F%90%BE&left=true&width=440&height=40&font=Fira%20Code&size=22&color=58A6FF&vCenter=true&pause=1000" /></a>
+</p>
+
+<i>I build the infrastructure nobody notices until it breaks — at which point everybody notices it.
+<br>The rest of the time I argue with YAML and lose to two cats.</i>
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhanshumg" alt="subhanshumg" /></a> </p> -->
 
 
-- 🏢 Senior Staff Engineer, DevSecOps at **Concentric AI** — I own the security controls the platform is built on, which is the formal way of saying I own the audit finding
-- 🧮 Seven concurrent roles are currently listed on my LinkedIn. I have been told this is not, strictly speaking, a personality
-- 🥅 My 2026 goal was "contribute more to open source." It is now September and there are 91 public repos down there. I'm calling that a win
-- 🤖 Scroll far enough and this README will cheerfully report that 99.98% of last week's lines were written by AI. The other 0.02% was me, fixing them
-- 🎓 B.Tech in CSE (Cloud Computing), plus a peer-reviewed [paper on cloud security in healthcare](https://jmss.a2zjournals.com/index.php/mss/article/view/41) that is genuinely more interesting than its title suggests
-- 👯 Happy to collaborate with anyone who writes the runbook *before* the incident
+- 🥅 The 2026 goal was "contribute more to open source." It is September. There are 91 public repos down there. Calling it
+- 🤖 Scroll far enough and this README admits 99.98% of last week's code was written by AI. The other 0.02% was me, fixing it
+- 👯 Will happily work with anyone who writes the runbook *before* the incident
 - 🗺️ Bengaluru, India. GitHub insists it is `127.0.0.1` — there's no place like it
-- 🐾 My cats are named Linux and Xenix. One is open source, the other was discontinued by Microsoft. They get along fine
+- 🐾 The cats are Linux and Xenix. One is open source, the other was discontinued by Microsoft. They get along fine
 
 ---
 
 <h3 align="left">Featured Projects</h3>
-<sub><i>The ones that made it past the "weekend prototype" stage.</i></sub>
 
 <table>
   <tr>
@@ -62,7 +57,7 @@
 ---
 
 <h3 align="left">Find me here:</h3>
-<sub><i>Response time inversely proportional to how the deploy is going.</i></sub>
+
 <p align="left"> 
 <a href="https://subhanshumg.com/"><img src="https://img.shields.io/badge/Portfolio-%23030305.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a> 
 &nbsp;<a href="https://www.linkedin.com/in/subhanshumg/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
@@ -74,7 +69,7 @@
 ---
 
 <h3 align="left">Things I code with:</h3>
-<sub><i>Loosely ordered by how many Fridays each one has personally ruined.</i></sub>
+
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -115,8 +110,6 @@
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
 </p>
 
-<sub><i>Formally certified by Oracle (twice), CompTIA, AWS, Docker and GitHub — which chiefly demonstrates that I am good at sitting exams.</i></sub>
-
 ---
 
 <!-- <details>
@@ -137,7 +130,6 @@
 <!--  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhanshumg&show_icons=true&locale=en" alt="subhanshumg" /> -->
 
 <h3 align="left">Stats, Activities and Contributions:</h3>
-<sub><i>Generated on a cron, which is the only reason they are still accurate.</i></sub>
 
 <!-- <details>
   <summary><b>Github Stats & Most Used Langauges <i></b><font color="blue">(click to expand)</i></font></b></summary>
@@ -299,14 +291,14 @@ TypeScript               6 repos             ██░░░░░░░░░�
 <h3 align="left">Numbers of varying credibility:</h3>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-121.4%20million%20lines%20of%20code-black" alt="Lines of code written since Hello World" />
-  <img src="https://img.shields.io/badge/Code%20Time-6%2C158%20hrs%206%20mins-black" alt="Total code time" />
+  <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-121.4%20million%20lines%20of%20code-black?style=flat-square" alt="Lines of code written since Hello World" />
+  <img src="https://img.shields.io/badge/Code%20Time-6%2C158%20hrs%206%20mins-black?style=flat-square" alt="Total code time" />
   <a href="https://codetime.dev"><img src="https://shields.jannchie.com/endpoint?style=flat-square&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D25433" alt="CodeTime" /></a>
   <img src="https://img.shields.io/github/last-commit/SubhanshuMG/SubhanshuMG?style=flat-square&color=blue&label=Last%20Updated%20" alt="Last updated" />
-  <img src="https://komarev.com/ghpvc/?username=subhanshumg&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=subhanshumg&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
-<sub><i>121.4 million lines across 6,158 recorded hours is 329 lines a minute, every minute, without pausing. I have elected not to audit these two badges in each other's company.</i></sub>
+<sub><i>121.4 million lines across 6,158 hours is 329 a minute, without pausing. I have elected not to investigate.</i></sub>
 
 
 [website]: https://subhanshumg.com/
