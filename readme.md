@@ -36,6 +36,7 @@
       <p><i>Engineering acceleration platform</i></p>
       <p>Stop configuring ESLint, start shipping.</p>
       <sub><b>TypeScript · Node.js · Commander.js · GitHub Actions</b></sub>
+      <p><a href="https://www.bestpractices.dev/projects/12234"><img src="https://www.bestpractices.dev/projects/12234/badge" alt="OpenSSF Best Practices passing" /></a></p>
     </td>
   </tr>
   <tr>
