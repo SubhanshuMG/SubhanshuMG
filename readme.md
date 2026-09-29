@@ -24,10 +24,10 @@
 
 <p align="left"> 
 <!-- <a href="https://subhanshumg.com/"><img src="https://img.shields.io/badge/Portfolio-%23030305.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>  -->
-&nbsp;<a href="https://www.linkedin.com/in/subhanshumg/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-&nbsp;<a href="https://x.com/SubhanshuMG"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a> 
+&nbsp;<a href="https://www.linkedin.com/in/subhanshumg/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
 &nbsp;<a href="https://www.upwork.com/freelancers/~018dbde5ce287cbf75"><img src="https://img.shields.io/badge/Upwork-%236FDA44.svg?style=for-the-badge&logo=upwork&logoColor=white"/></a> 
 &nbsp;<a href="https://instagram.com/subhanshu_mg"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>  
+&nbsp;<a href="https://x.com/SubhanshuMG"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
 </p>
 
 ---
