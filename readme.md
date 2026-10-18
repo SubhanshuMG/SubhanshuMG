@@ -322,44 +322,44 @@ Sunday                   1497 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    49 hrs 39 mins      ██████████████████████░░░   86.29 % 
-Markdown                 3 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Python                   2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-Bash                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-JSON                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Other                    48 hrs 25 mins      █████████████████████░░░░   85.22 % 
+Markdown                 3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Python                   2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Bash                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+JSON                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🔥 Editors: 
-Claude Code              47 hrs 24 mins      █████████████████████░░░░   82.40 % 
-VS Code                  10 hrs 7 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+Claude Code              47 hrs 24 mins      █████████████████████░░░░   83.43 % 
+VS Code                  9 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
 
 💻 Operating System: 
-Mac                      57 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      56 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 56 hrs 43 mins (98.59%)
+⏱ AI Coding Time: 56 hrs (98.57%)
 
-✍️ 25,412 lines written by AI, 725 lines written by hand (97.23% AI-written)
+✍️ 30,758 lines written by AI, 725 lines written by hand (97.7% AI-written)
 
-🔤 99,349,982 Input Tokens, 10,455,312 Output Tokens
+🔤 99,325,543 Input Tokens, 10,067,930 Output Tokens
 
-💵 $1170.09 Estimated AI Cost This Week
+💵 $1143.04 Estimated AI Cost This Week
 
-🧠 4098 AI Sessions, 11663 AI Prompts
+🧠 3628 AI Sessions, 10709 AI Prompts
 
-Opus                     23,639 lines        ███████████████████████░░   92.52 % 
-Fable                    969 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-Sonnet                   943 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     28,985 lines        ███████████████████████░░   93.81 % 
+Fable                    969 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Sonnet                   943 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.23% of written lines came from AI
-📚 Verbose Prompter — average 21,449 characters per prompt
+🤖 AI-Driven — 97.7% of written lines came from AI
+📚 Verbose Prompter — average 21,417 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 2.81% of changed lines were hand-edited
+🚀 High AI Trust — 2.34% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -375,7 +375,7 @@ Mermaid                  7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2026 12:42:47 UTC
+ Last Updated on 18/10/2026 18:43:07 UTC
 <!--END_SECTION:waka-->
 </details>
 
