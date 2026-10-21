@@ -155,10 +155,11 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><img src="https://raw.githubusercontent.com/SubhanshuMG/SubhanshuMG/master/assets/logos/secwins.png" width="36" align="middle" alt="" /> <a href="https://cai-secwins.subhanshumg.com">SecWins</a> <sub><code>INTERNAL</code></sub></h4>
-      <p><i>DevSecOps evidence ledger</i></p>
-      <p>A security metric nobody can trace to an artifact is a feeling with a number attached.</p>
-      <sub><b>Python · FastAPI · Supabase · Docker · Vercel</b></sub>
+      <h4><img src="https://raw.githubusercontent.com/SubhanshuMG/SubhanshuMG/master/assets/logos/secdeck.png" width="36" align="middle" alt="" /> <a href="https://secdeck.dev.concentricai.com">SecDeck</a> <sub><code>INTERNAL</code></sub></h4>
+      <p><i>DevSecOps SDLC control plane</i></p>
+      <p>A finding is closed when the re-scan says so, not when the ticket does.</p>
+      <p><sub>Two tools, one control plane: DevSecOps HQ + DevSecOps Wins, merged. Built for Concentric AI.</sub></p>
+      <sub><b>Python · FastAPI · Postgres · Amazon EKS · Helm</b></sub>
     </td>
     <td width="50%" valign="top">
       <h4><img src="https://raw.githubusercontent.com/SubhanshuMG/SubhanshuMG/master/assets/logos/x-growth.png" width="36" align="middle" alt="" /> <a href="https://x-app.subhanshumg.com">X-Growth</a> <sub><code>PAUSED</code></sub></h4>
