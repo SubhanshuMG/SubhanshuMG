@@ -13,10 +13,10 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhanshumg" alt="subhanshumg" /></a> </p> -->
 
 
-- 🥅 The 2026 goal was "contribute more to open source." It is September. There are 91 public repos down there. Calling it
-- 🤖 Scroll far enough and this README admits 99.98% of last week's code was written by AI. The other 0.02% was me, fixing it
-- 👯 Will happily work with anyone who writes the runbook *before* the incident
-- 🐾 Cat dad to Linux and Xenix who share my birthday and have full root on me :)
+- The 2026 goal was "contribute more to open source." It is September. There are 91 public repos down there. Calling it
+- Scroll far enough and this README admits 99.98% of last week's code was written by AI. The other 0.02% was me, fixing it
+- Will happily work with anyone who writes the runbook *before* the incident
+- Cat dad to Linux and Xenix who share my birthday and have full root on me :)
 
 ---
 
