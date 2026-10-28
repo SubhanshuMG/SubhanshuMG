@@ -301,18 +301,18 @@
 ```text
 🌞 Morning                4352 commits        █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
 🌆 Daytime                4791 commits        ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
-🌃 Evening                6230 commits        ███████░░░░░░░░░░░░░░░░░░   29.40 % 
+🌃 Evening                6229 commits        ███████░░░░░░░░░░░░░░░░░░   29.40 % 
 🌙 Night                  5814 commits        ███████░░░░░░░░░░░░░░░░░░   27.44 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   4414 commits        █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Tuesday                  2450 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Tuesday                  2449 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
 Wednesday                1129 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
 Thursday                 1651 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
 Friday                   2839 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Saturday                 6929 commits        ████████░░░░░░░░░░░░░░░░░   32.70 % 
+Saturday                 6929 commits        ████████░░░░░░░░░░░░░░░░░   32.71 % 
 Sunday                   1775 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
 ```
 
@@ -323,42 +323,42 @@ Sunday                   1775 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    62 hrs 33 mins      █████████████████████░░░░   83.09 % 
-Python                   5 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-Markdown                 3 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-TypeScript               56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-Bash                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Other                    54 hrs 53 mins      █████████████████████░░░░   82.86 % 
+Python                   4 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+Markdown                 3 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+TypeScript               53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Text                     42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🔥 Editors: 
-Claude Code              75 hrs 9 mins       █████████████████████████   99.83 % 
-VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Claude Code              66 hrs 9 mins       █████████████████████████   99.86 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Mac                      75 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      66 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 75 hrs 13 mins (99.91%)
+⏱ AI Coding Time: 66 hrs 10 mins (99.91%)
 
-✍️ 28,659 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 25,602 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 313,820,790 Input Tokens, 17,018,421 Output Tokens
+🔤 294,397,651 Input Tokens, 14,906,713 Output Tokens
 
-💵 $2197.37 Estimated AI Cost This Week
+💵 $2027.43 Estimated AI Cost This Week
 
-🧠 3887 AI Sessions, 18499 AI Prompts
+🧠 3225 AI Sessions, 16556 AI Prompts
 
-Opus                     20,131 lines        █████████████████░░░░░░░░   69.80 % 
-Sonnet                   7,280 lines         ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
-Fable                    1,431 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Opus                     17,018 lines        ████████████████░░░░░░░░░   65.43 % 
+Sonnet                   8,992 lines         █████████░░░░░░░░░░░░░░░░   34.57 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 26,810 characters per prompt
+📚 Verbose Prompter — average 27,258 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -366,17 +366,17 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   26 repos            ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
-JavaScript               16 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-Shell                    9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-TypeScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-Mermaid                  7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Python                   26 repos            ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
+JavaScript               16 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Shell                    9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Mermaid                  7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 ```
 
 
 
 
- Last Updated on 28/10/2026 15:16:21 UTC
+ Last Updated on 28/10/2026 21:08:15 UTC
 <!--END_SECTION:waka-->
 </details>
 
