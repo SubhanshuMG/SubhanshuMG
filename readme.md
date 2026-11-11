@@ -288,7 +288,7 @@
 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
-> 🏆 4,014 Contributions in the Year 2026
+> 🏆 4,017 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -302,17 +302,17 @@
 🌞 Morning                5184 commits        █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
 🌆 Daytime                5966 commits        ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
 🌃 Evening                7341 commits        ███████░░░░░░░░░░░░░░░░░░   29.01 % 
-🌙 Night                  6812 commits        ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+🌙 Night                  6815 commits        ███████░░░░░░░░░░░░░░░░░░   26.93 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   5020 commits        █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
 Tuesday                  3341 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Wednesday                1530 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Wednesday                1533 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 Thursday                 2101 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
 Friday                   3238 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Saturday                 7684 commits        ████████░░░░░░░░░░░░░░░░░   30.37 % 
+Saturday                 7684 commits        ████████░░░░░░░░░░░░░░░░░   30.36 % 
 Sunday                   2389 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
 ```
 
@@ -323,39 +323,41 @@ Sunday                   2389 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    47 hrs 55 mins      ████████████████░░░░░░░░░   65.65 % 
-TypeScript               9 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Python                   5 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-Markdown                 4 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-CSS                      2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Other                    43 hrs 49 mins      ████████████████░░░░░░░░░   63.77 % 
+TypeScript               10 hrs 29 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Markdown                 7 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Python                   2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+CSS                      1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 
 🔥 Editors: 
-Claude Code              73 hrs              █████████████████████████   99.99 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Claude Code              68 hrs 42 mins      █████████████████████████   100.00 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      73 hrs              █████████████████████████   100.00 % 
+Mac                      68 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 73 hrs (100.0%)
+⏱ AI Coding Time: 68 hrs 42 mins (100.0%)
 
-✍️ 43,511 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 21,560 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 112,706,422 Input Tokens, 16,753,332 Output Tokens
+🔤 69,361,498 Input Tokens, 13,466,894 Output Tokens
 
-💵 $1485.44 Estimated AI Cost This Week
+💵 $1276.17 Estimated AI Cost This Week
 
-🧠 2631 AI Sessions, 3753 AI Prompts
+🧠 2168 AI Sessions, 2445 AI Prompts
 
-Opus                     44,537 lines        █████████████████████████   100.00 % 
+Opus                     20,589 lines        ███████████████████████░░   92.40 % 
+Fable                    1,694 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 25,982 characters per prompt
+📚 Verbose Prompter — average 25,430 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -373,7 +375,7 @@ TypeScript               6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2026 16:42:40 UTC
+ Last Updated on 11/11/2026 06:01:44 UTC
 <!--END_SECTION:waka-->
 </details>
 
