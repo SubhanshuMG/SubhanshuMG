@@ -288,7 +288,7 @@
 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
-> 🏆 4,017 Contributions in the Year 2026
+> 🏆 4,015 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -323,40 +323,40 @@ Sunday                   2389 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   25 hrs 39 mins      ██████████████░░░░░░░░░░░   55.27 % 
-Markdown                 14 hrs 6 mins       ████████░░░░░░░░░░░░░░░░░   30.39 % 
-YAML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Diff                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-Bash                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Python                   22 hrs 51 mins      ██████████████░░░░░░░░░░░   56.69 % 
+Markdown                 11 hrs 53 mins      ███████░░░░░░░░░░░░░░░░░░   29.47 % 
+Text                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Diff                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Bash                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 🔥 Editors: 
-Claude Code              46 hrs 15 mins      █████████████████████████   99.62 % 
-VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Claude Code              40 hrs 16 mins      █████████████████████████   99.85 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Mac                      46 hrs 26 mins      █████████████████████████   100.00 % 
+Mac                      40 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 46 hrs 20 mins (99.81%)
+⏱ AI Coding Time: 40 hrs 19 mins (100.0%)
 
-✍️ 54,767 lines written by AI, 2 lines written by hand (100.0% AI-written)
+✍️ 46,269 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 65,247,686 Input Tokens, 13,481,864 Output Tokens
+🔤 60,966,758 Input Tokens, 12,109,669 Output Tokens
 
-💵 $1200.96 Estimated AI Cost This Week
+💵 $1084.11 Estimated AI Cost This Week
 
-🧠 89 AI Sessions, 396 AI Prompts
+🧠 89 AI Sessions, 327 AI Prompts
 
-Opus                     43,060 lines        ██████████████████████░░░   86.73 % 
-Sonnet                   6,589 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Opus                     37,936 lines        ███████████████████████░░   92.57 % 
+Sonnet                   3,044 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 6,838 characters per prompt
+📚 Verbose Prompter — average 7,893 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -374,7 +374,7 @@ TypeScript               6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 23/11/2026 07:24:18 UTC
+ Last Updated on 23/11/2026 20:14:34 UTC
 <!--END_SECTION:waka-->
 </details>
 
